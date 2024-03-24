@@ -31,7 +31,7 @@ redirect_from:
 2022
 ---
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Numerical exploration on snap buckling of a pre-stressed hemispherical gridshell. *Journal of Applied Mechanics*, 89(1), p.011005.
-* Qin, L., Zhu, J. and **Huang, W.**^1, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. *International Journal for Numerical Methods in Engineering*, 123(11), pp.2556-2572.
+* Qin, L., Zhu, J. and **Huang, W.** $^1$, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. *International Journal for Numerical Methods in Engineering*, 123(11), pp.2556-2572.
 * Xu, P., Zhou, Z., **Huang, W.**, Chen, Q., Lu, F. and Liu, T., 2022. The evolution mechanisms of bearing-tension-shear failure modes of FML joints under in-plane dynamic load. *Composites Communications*, 32, p.101174.
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Natural frequencies of pre-buckled rods and gridshells. *Applied Mathematical Modelling*, 107, pp.621-636.
 * **Huang, W.**, Ma, C., Chen, Q. and Qin, L., 2022. A discrete differential geometry-based numerical framework for extensible ribbons. *International Journal of Solids and Structures*, 248, p.111619.
