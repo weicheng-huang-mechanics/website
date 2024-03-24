@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "weicheng.png"
   name             : "Weicheng Huang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
