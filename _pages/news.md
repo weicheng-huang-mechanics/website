@@ -12,3 +12,10 @@ redirect_from:
 Personal website launched
 ---
 We have launched a new website! (24/03/2024)
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
