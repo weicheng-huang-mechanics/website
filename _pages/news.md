@@ -16,3 +16,4 @@ We have launched a new website! (24/03/2024)
 ```diff
 - text in red
 ```
+- red -
