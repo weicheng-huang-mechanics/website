@@ -11,6 +11,7 @@ redirect_from:
 
 Newcastle Univeersity
 ---
+* Coming soon
 
 
 Southeast University
