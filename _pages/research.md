@@ -12,7 +12,7 @@ redirect_from:
 SMA-powered soft robots
 ---
 
-![](./images/smarobot.png)
+![](/images/overview.png)
 
 Magnetic rods & robots
 ---
