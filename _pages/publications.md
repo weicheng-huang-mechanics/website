@@ -9,18 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
-
-$ \star $ indicates
-
-( $$ \star $$ indicates the co-first author and $$ \dag $$ indicates the co-first author )
 
 2024
 ---
