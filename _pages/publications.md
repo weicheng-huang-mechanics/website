@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-( \\^*\\) )
+( \\a^2\\ )
 
 2024
 ---
