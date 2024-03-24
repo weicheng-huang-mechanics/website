@@ -13,6 +13,8 @@ Soft robotics
 ---
 * Simulation of soft robots
 
+![Overview](/images/overview.png)
+
 Thin strips
 ---
 * Mechanics of thin strip
