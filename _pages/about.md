@@ -12,7 +12,8 @@ My research interest is in both physics-based and data-based modeling and design
 Research
 ------
 
-![Editing a markdown file for a talk](/images/overview.png.png)
+This is my research overview
+![Overview](/images/overview.png)
 
 News
 ------
