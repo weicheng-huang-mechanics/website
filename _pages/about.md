@@ -12,6 +12,7 @@ My research interest is in both physics-based and data-based modeling and design
 Research
 ------
 
+![Illustration of combining vision and language modalities](/images/overview.png){: .align-right width="300px"}
 
 News
 ------
