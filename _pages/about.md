@@ -13,13 +13,13 @@ Research
 ------
 
 This is my research overview
-![Overview](/images/overview.png)
+![Overview](./images/overview.png)
 
 News
 ------
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](./images/editing-talk.png)
 
 Contact
 ------
