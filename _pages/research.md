@@ -14,6 +14,8 @@ SMA-powered soft robots
 
 ![](/images/overview.png)
 
+![](./images/overview.png)
+
 Magnetic rods & robots
 ---
 ![](./images/magrobot.png)
