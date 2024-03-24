@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Newcastle Univeersity
+---
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+Southeast University
+---
+* Instructor for *Robotics and Its Applications* (In English), Spring 2023
+* Instructor for *Robotics and Its Applications* (In English), Spring 2022
+
+University of California, Los Angeles
+---
+* Teaching Assistant for *Advanced Strength of Materials* , Winter 2020
+* Teaching Assistant for *Advanced Strength of Materials* , Winter 2019
+* Teaching Assistant for *Advanced Strength of Materials* , Winter 2018
+
 
