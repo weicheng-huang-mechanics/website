@@ -12,7 +12,7 @@ title                    : "Weicheng Huang's homepage"
 title_separator          : "-"
 name                     : &name "Weicheng Huang"
 description              : &description "personal description"
-url                      : weicheng-huang.github.io
+url                      : https://weicheng-huang-mechanics.github.io/weicheng-huang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
