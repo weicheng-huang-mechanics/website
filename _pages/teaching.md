@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Newcastle Univeersity
+Newcastle University
 ---
 * Coming soon
 
