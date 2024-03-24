@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "UK"
+locale                   : "Newcastle upon Tyne, UK"
 title                    : "Weicheng's homepage"
 title_separator          : "-"
 name                     : &name "Weicheng Huang"
