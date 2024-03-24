@@ -12,42 +12,42 @@ redirect_from:
 SMA-powered soft robots
 ---
 
-"<br/><img src='../images/smarobot.png'>"
+<br/><img src='../images/smarobot.png'>
 
 Magnetic rods & robots
 ---
 
-"<br/><img src='../images/magrobot.png'>"
+<br/><img src='../images/magrobot.png'>
 
 Flagellar proposition
 ---
 
-"<br/><img src='../images/flagella.png'>"
+<br/><img src='../images/flagella.png'>
 
 Bifurcation of elastic strips
 ---
 
-"<br/><img src='../images/strip.png'>"
+<br/><img src='../images/strip.png'>
 
 Foldable annular ribbons
 ---
 
-"<br/><img src='../images/ring.png'>"
+<br/><img src='../images/ring.png'>
 
 Mechanics of Gridshells
 ---
 
-"<br/><img src='../images/gridshell.png'>"
+<br/><img src='../images/gridshell.png'>
 
 
 Space net capture system
 ---
 
-"<br/><img src='../images/net.png'>"
+<br/><img src='../images/net.png'>
 
 
 Axisymmetric shell
 ---
 
-"<br/><img src='../images/axisshell.png'>"
+<br/><img src='../images/axisshell.png'>
 
