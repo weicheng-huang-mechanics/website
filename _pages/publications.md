@@ -18,7 +18,7 @@ $$
 }
 $$
 
-$$ \star $$ indicates
+$ \star $ indicates
 
 ( $$ \star $$ indicates the co-first author and $$ \dag $$ indicates the co-first author )
 
