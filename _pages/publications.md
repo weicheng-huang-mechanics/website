@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-( $$ a^2 + b^2$$ )
+$$
+\displaylines{
+\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
+\nabla \cdot B=0 \\\
+\nabla \times E= -\partial_tB \\\
+\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
+}
+$$
+
+The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
 2024
 ---
