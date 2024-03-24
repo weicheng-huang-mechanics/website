@@ -34,7 +34,7 @@ Foldable annular ribbons
 
 Mechanics of Gridshells
 ---
-![](./images/gridshell.png)
+![](gridshell.png)
 
 Space net capture system
 ---
