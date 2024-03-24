@@ -18,7 +18,7 @@ SMA-powered soft robots
 
 Magnetic rods & robots
 ---
-![](./images/magrobot.png)
+![](../images/magrobot.png)
 
 Flagellar proposition
 ---
