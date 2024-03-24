@@ -9,24 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Soft robotics
+SMA-powered soft robots
 ---
-* Simulation of soft robots
 
-![Overview](/images/overview.png)
+![](./images/smarobot.png)
 
-Thin strips
+Magnetic rods & robots
 ---
-* Mechanics of thin strip
+![](./images/magrobot.png)
 
-Gridshells
+Flagellar proposition
 ---
-* Simulation of soft robots
+![](./images/flagella.png)
+
+Bifurcation of elastic strips
+---
+![](./images/strip.png)
+
+Foldable annular ribbons
+---
+![](./images/ring.png)
+
+Mechanics of Gridshells
+---
+![](./images/gridshell.png)
 
 Space net capture system
 ---
-* Simulation of soft robots
+![](./images/net.png)
 
-Shells
----
-* Simulation of soft robots
