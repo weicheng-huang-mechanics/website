@@ -20,7 +20,7 @@ redirect_from:
 * Yang, X., Zhou, Y., Zhao, H., **Huang, W.**, Wang, Y., Hsia, K.J. and Liu, M., 2023. Morphing matter: From mechanical principles to robotic applications. *Soft Science*, 3(4), p.38.
 * **Huang, W.**, Liu, M. and Hsia, K.J., 2023. Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. *Extreme Mechanics Letters*, 59, p.101967.
 * **Huang, W.**, Liu, M. and Hsia, K.J., 2023. A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. *Extreme Mechanics Letters*, 59, p.101977.
-* Qin, L., Peng, H., Huang, X., Liu, M. $^*$ and **Huang, W.** $^*$, 2023. Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. *Current Robotics Reports*, pp.1-13.
+* Qin, L., Peng, H., Huang, X., Liu, M. and **Huang, W.** $^*$, 2023. Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. *Current Robotics Reports*, pp.1-13.
 * **Huang, W.**, Zhang, Y., Yu, T. and Liu, M., 2023. Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method. *Journal of Applied Mechanics*, 90(9).
 * **Huang, W.**, Zou, H., Pan, Y., Zhang, K., Zheng, J., Li, J. and Mao, S., 2023. Numerical simulation and behavior prediction of a space net system throughout the capture process: Spread, contact, and close. *International Journal of Mechanical System Dynamics*, 3(3), pp.265-273.
 * **Huang, W.**, Zou, H., Liu, H., Yang, W., Gao, J. and Liu, Z., 2023. Contact dynamic analysis of tether-net system for space debris capture using incremental potential formulation. *Advances in Space Research*, 72(6), pp.2039-2050.
