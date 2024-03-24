@@ -12,7 +12,7 @@ My research interest is in both physics-based and data-based modeling and design
 Research
 ------
 
-![MarineGEO circle logo](/images/overview.png "MarineGEO logo")
+![Overview](/images/overview.png)
 
 News
 ------
