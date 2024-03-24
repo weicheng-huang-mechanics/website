@@ -12,7 +12,7 @@ My research interest is in both physics-based and data-based modeling and design
 Research
 ------
 
-Short description of portfolio item number 1<br/><img src='/images/overview.png'>"
+![Editing a markdown file for a talk](/images/overview.png.png)
 
 News
 ------
