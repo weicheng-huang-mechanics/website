@@ -20,6 +20,8 @@ $$
 
 The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
+$$ ^1 $$ indicates the co-first author
+
 2024
 ---
 * Liu, Z., Bian, P.L., Qu, Y., **Huang, W.**, Chen, L., Chen, J., Saxena, P. and Yu, T., 2024. A Galerkin approach for analysing coupling effects in the piezoelectric semiconducting beams. *`European Journal of Mechanics-A/Solids`*, 103, p.105145.
