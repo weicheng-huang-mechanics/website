@@ -18,7 +18,7 @@ $$
 }
 $$
 
-$$ ^\star $$
+( $$ ^\star $$ indicates the co-first author and $$ ^\dag $$
 
 2024
 ---
