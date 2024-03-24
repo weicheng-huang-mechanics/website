@@ -12,31 +12,31 @@ redirect_from:
 SMA-powered soft robots
 ---
 
-![](/images/overview.png)
+"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 
-![](./images/overview.png)
+"Short description of portfolio item number 1<br/><img src='./images/500x300.png'>"
+"Short description of portfolio item number 1<br/><img src='../images/500x300.png'>"
 
 Magnetic rods & robots
 ---
-![](../images/magrobot.png)
 
 Flagellar proposition
 ---
-![](./images/flagella.png)
+
 
 Bifurcation of elastic strips
 ---
-![](./images/strip.png)
+
 
 Foldable annular ribbons
 ---
-![](./images/ring.png)
+
 
 Mechanics of Gridshells
 ---
-![](gridshell.png)
+
 
 Space net capture system
 ---
-![](./images/net.png)
+
 
