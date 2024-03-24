@@ -20,7 +20,7 @@ $$
 
 The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
-\\ ^1 \\ indicates the co-first author
+\\( a^2 + ^1 \\) indicates the co-first author
 
 2024
 ---
