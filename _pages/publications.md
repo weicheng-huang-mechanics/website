@@ -43,7 +43,7 @@ redirect_from:
 ---
 * **Huang, W.**, Patterson, Z., Majidi, C. and Jawed, M.K., 2021. Modeling soft swimming robots using discrete elastic rod method. *Bioinspired Sensing, Actuation, and Control in Underwater Soft Robotic Systems*, pp.247-259.
 * **Huang, W.**, Qin, L. and Khalid Jawed, M., 2021. Numerical method for direct solution to form-finding problem in convex gridshell. *Journal of Applied Mechanics*, 88(2), p.021012.
-* Huang, X. $^#$, **Huang, W.** $^#$, Patterson, Z. $^#$, Ren, Z., Jawed, M.K. and Majidi, C., 2021, May. Numerical simulation of an untethered omni-directional star-shaped swimming robot. *2021 IEEE International Conference on Robotics and Automation (ICRA)* (pp. 11884-11890). IEEE.
+* Huang, X. $^1$, **Huang, W.** $^1$, Patterson, Z. $^1$, Ren, Z., Jawed, M.K. and Majidi, C., 2021, May. Numerical simulation of an untethered omni-directional star-shaped swimming robot. *2021 IEEE International Conference on Robotics and Automation (ICRA)* (pp. 11884-11890). IEEE.
 * Forghani, M., **Huang, W.** and Jawed, M.K., 2021. Control of uniflagellar soft robots at low reynolds number using buckling instability. *Journal of Dynamic Systems, Measurement, and Control*, 143(6), p.061004.
 * **Huang, W.** and Jawed, M.K., 2021. Numerical simulation of bundling of helical elastic rods in a viscous fluid. *Computers & Fluids*, 228, p.105038.
 * **Huang, W.**, Ma, C. and Qin, L., 2021. Snap-through behaviors of a pre-deformed ribbon under midpoint loadings. *International Journal of Solids and Structures*, 232, p.111184.
@@ -53,10 +53,10 @@ redirect_from:
 2020
 ---
 * **Huang, W.** and Jawed, M.K., 2020. Numerical exploration on buckling instability for directional control in flagellar propulsion. *Soft matter*, 16(3), pp.604-613.
-* Li, X. $^#$, **Huang, W.** $^#$ and Jawed, M.K., 2020. A discrete differential geometry-based approach to numerical simulation of Timoshenko beam. *Extreme Mechanics Letters*, 35, p.100622.
+* Li, X. $^1$, **Huang, W.** $^1$ and Jawed, M.K., 2020. A discrete differential geometry-based approach to numerical simulation of Timoshenko beam. *Extreme Mechanics Letters*, 35, p.100622.
 * **Huang, W.**, Huang, X., Majidi, C. and Jawed, M.K., 2020. Dynamic simulation of articulated soft robots. *Nature communications*, 11(1), p.2233.
-* Li, X. $^#$, **Huang, W.** $^#$ and Jawed, M.K., 2020. Discrete elasto-plastic rods. *Extreme Mechanics Letters*, 38, p.100767.
-* Qin, L. $^#$, **Huang, W.** $^1$, Du, Y., Zheng, L. and Jawed, M.K., 2020. Genetic algorithm-based inverse design of elastic gridshells. *Structural and Multidisciplinary Optimization*, 62, pp.2691-2707.
+* Li, X. $^1$, **Huang, W.** $^1$ and Jawed, M.K., 2020. Discrete elasto-plastic rods. *Extreme Mechanics Letters*, 38, p.100767.
+* Qin, L. $^1$, **Huang, W.** $^1$, Du, Y., Zheng, L. and Jawed, M.K., 2020. Genetic algorithm-based inverse design of elastic gridshells. *Structural and Multidisciplinary Optimization*, 62, pp.2691-2707.
 * **Huang, W.**, Wang, Y., Li, X. and Jawed, M.K., 2020. Shear induced supercritical pitchfork bifurcation of pre-buckled bands, from narrow strips to wide plates. *Journal of the Mechanics and Physics of Solids*, 145, p.104168.
 
 2019
