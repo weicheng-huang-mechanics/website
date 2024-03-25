@@ -27,7 +27,6 @@ Awards and Honors
 * UCLA Dissertation Year Fellowship, 2020
 * Shanghai Outstanding Graduate, 2017
 
-
 Service and leadership
 ---
 * **Reviewers**: Provided more than 20 reviews for International Journal for Numerical Methods in Engineering, ASME Journal of Applied Mechanics, Extreme Mechanics Letters, Mechanism and Machine Theory, IEEE Robotics and Automation Letters, IEEE Robotics Automation Magazine, Thin-Walled Structures, Meccanica, Acta Mechanica Solida Sinica, Multibody System Dynamics.
