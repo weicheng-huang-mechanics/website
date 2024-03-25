@@ -49,6 +49,8 @@ Integration of in-plane kinks and out-of-plane creases to achieve a tunable fold
 
 <br/><img src='../images/ring.png'>
 
+---
+
 **Mechanics of Gridshells**
 
 Nonlinear mechanics of multiple rod systems.
