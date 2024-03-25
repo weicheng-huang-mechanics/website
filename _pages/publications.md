@@ -35,7 +35,7 @@ $(ax^2 + bx + c = 0)$
 2022
 ---
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Numerical exploration on snap buckling of a pre-stressed hemispherical gridshell. **`Journal of Applied Mechanics`**, 89(1), p.011005.
-* Qin, L., Zhu, J. and **Huang, W.**, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. **`International Journal for Numerical Methods in Engineering`**, 123(11), pp.2556-2572.
+* Qin, L., Zhu, J. and **Huang, W.**  $^{\star}$, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. **`International Journal for Numerical Methods in Engineering`**, 123(11), pp.2556-2572.
 * Xu, P., Zhou, Z., **Huang, W.**, Chen, Q., Lu, F. and Liu, T., 2022. The evolution mechanisms of bearing-tension-shear failure modes of FML joints under in-plane dynamic load. **`Composites Communications`**, 32, p.101174.
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Natural frequencies of pre-buckled rods and gridshells. **`Applied Mathematical Modelling`**, 107, pp.621-636.
 * **Huang, W.**, Ma, C., Chen, Q. and Qin, L., 2022. A discrete differential geometry-based numerical framework for extensible ribbons. **`International Journal of Solids and Structures`**, 248, p.111619.
@@ -60,7 +60,7 @@ $(ax^2 + bx + c = 0)$
 * Li, X., **Huang, W.** and Jawed, M.K., 2020. A discrete differential geometry-based approach to numerical simulation of Timoshenko beam. **`Extreme Mechanics Letters`**, 35, p.100622.
 * **Huang, W.**, Huang, X., Majidi, C. and Jawed, M.K., 2020. Dynamic simulation of articulated soft robots. **`Nature communications`**, 11(1), p.2233.
 * Li, X., **Huang, W.** and Jawed, M.K., 2020. Discrete elasto-plastic rods. **`Extreme Mechanics Letters`**, 38, p.100767.
-* Qin, L., **Huang, W.**, Du, Y., Zheng, L. and Jawed, M.K., 2020. Genetic algorithm-based inverse design of elastic gridshells. **`Structural and Multidisciplinary Optimization`**, 62, pp.2691-2707.
+* Qin, L. $^{1}$, **Huang, W.** $^{1}$, Du, Y., Zheng, L. and Jawed, M.K., 2020. Genetic algorithm-based inverse design of elastic gridshells. **`Structural and Multidisciplinary Optimization`**, 62, pp.2691-2707.
 * **Huang, W.**, Wang, Y., Li, X. and Jawed, M.K., 2020. Shear induced supercritical pitchfork bifurcation of pre-buckled bands, from narrow strips to wide plates. **`Journal of the Mechanics and Physics of Solids`**, 145, p.104168.
 
 2019
