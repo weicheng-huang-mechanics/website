@@ -72,3 +72,11 @@ Numerical modeling and nonlinear mechanics of axisymmetric shell structures.
 <br/><img src='../images/axisshell.png'>
 
 ---
+
+**3D shell**
+
+Isogeometric-based finite element analysis of 3D hyperelastic shells.
+
+<br/><img src='../images/3dshell.png'>
+
+---
