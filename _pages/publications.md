@@ -12,7 +12,7 @@ redirect_from:
 
 $(ax^2 + bx + c = 0)$
 
-$^{\star}$ indicates $^{1}$ indicates
+($^{1}$ indicates the equal contribution and $^{\star}$ indicates the corresponding author)
 
 2024
 ---
