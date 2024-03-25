@@ -7,10 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-My research interest is in both physics-based and data-based modeling and design of flexible structures and soft machines. My career goal is to combine computational mechanics, numerical simulations, machine learning algorithms, and autonomous robotic framework to characterize, analyze, and control the mechanical properties of complex materials and structures, then enhance the performances and enrich the functionalities of soft machines.
+
+Research Overview
+------
+
+We are interested in both physics-based and data-based modeling, design, and control of flexible structures and soft machines. We try to combine computational mechanics, numerical simulations, machine learning algorithms, and autonomous robotic framework to characterize, analyze, and control the mechanical properties of complex materials and structures, then enhance the performances and enrich the functionalities of soft machines.
 
 ![](./images/overview.png)
 
+
+Principal Investigator
+------
+
+Dr. Weicheng Huang is currently a Lecturer (Assistant Professor) at Newcastle University, UK. Before moving to Newcastle, he was an associate professor at Southeast University (2021/06 - 2023/12). He got his Ph. D. degree from the University of California, Los Angeles (2017.09 - 2021/03),  under the supervision of Prof. Khalid Jawed. He received his B. Eng. degree from Tongji University (2013.09 - 2017/07).
 
 Contact
 ------
