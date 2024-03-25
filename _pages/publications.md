@@ -12,7 +12,7 @@ redirect_from:
 
 $(ax^2 + bx + c = 0)$
 
-$^{\star}$ indicates $^{\dag}$ indicates
+$^{\star}$ indicates $^{\dagg}$ indicates
 
 2024
 ---
