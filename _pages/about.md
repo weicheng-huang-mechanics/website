@@ -19,7 +19,7 @@ We are interested in both physics-based and data-based modeling, design, and con
 Principal Investigator
 ------
 
-Dr. Weicheng Huang is currently a Lecturer (Assistant Professor) at Newcastle University, UK. Before moving to Newcastle, he was an associate professor at Southeast University, China (2021.06 - 2023.12). He got his Ph. D. degree from the University of California, Los Angeles, USA (2017.09 - 2021.03),  under the supervision of Prof. Khalid Jawed. He received his B. Eng. degree from Tongji University, China (2013.09 - 2017.07).
+Dr. Weicheng Huang is currently a Lecturer (Assistant Professor) at Newcastle University, UK. Before moving to Newcastle, he was an associate professor at Southeast University, China (2021.06 - 2023.12). He got his Ph. D. degree from the University of California, Los Angeles, USA (2017.09 - 2021.03),  under the supervision of [Prof. Khalid Jawed](https://samueli.ucla.edu/people/m-khalid-jawed/). He received his B. Eng. degree from Tongji University, China (2013.09 - 2017.07).
 
 Contact
 ------
