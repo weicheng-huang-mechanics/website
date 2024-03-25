@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Personal website launched
----
-We have launched a new website! (24/03/2024)
+* **Personal website launched**. We have launched a new website! (24/03/2024)
