@@ -45,7 +45,7 @@ redirect_from:
 ---
 * **Huang, W.**, Patterson, Z., Majidi, C. and Jawed, M.K., 2021. Modeling soft swimming robots using discrete elastic rod method. **`Bioinspired Sensing, Actuation, and Control in Underwater Soft Robotic Systems`**, pp.247-259.
 * **Huang, W.**, Qin, L. and Khalid Jawed, M., 2021. Numerical method for direct solution to form-finding problem in convex gridshell. **`Journal of Applied Mechanics`**, 88(2), p.021012.
-* Huang, X. <sup>1</sup>, **Huang, W.** <sup>1</sup>, Patterson, Z. <sup>1</sup>, Ren, Z., Jawed, M.K. and Majidi, C., 2021, May. Numerical simulation of an untethered omni-directional star-shaped swimming robot. **`2021 IEEE International Conference on Robotics and Automation (ICRA)`** (pp. 11884-11890). IEEE.
+* Huang, X. <sup>1</sup>, **Huang, W.** <sup>1</sup>, Patterson, Z. <sup>1</sup>, Ren, Z., Jawed, M.K. and Majidi, C., 2021, May. Numerical simulation of an untethered omni-directional star-shaped swimming robot. **`2021 IEEE International Conference on Robotics and Automation`** (pp. 11884-11890). IEEE.
 * Forghani, M., **Huang, W.** and Jawed, M.K., 2021. Control of uniflagellar soft robots at low reynolds number using buckling instability. **`Journal of Dynamic Systems, Measurement, and Control`**, 143(6), p.061004.
 * **Huang, W.** and Jawed, M.K., 2021. Numerical simulation of bundling of helical elastic rods in a viscous fluid. **`Computers & Fluids`**, 228, p.105038.
 * **Huang, W.**, Ma, C. and Qin, L., 2021. Snap-through behaviors of a pre-deformed ribbon under midpoint loadings. **`International Journal of Solids and Structures`**, 232, p.111184.
