@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education Background
 ---
 * Ph. D. in Mechanical Engineering, University of California, Los Angeles, 2017/09 - 2021/03.
