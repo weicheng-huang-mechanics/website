@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 * 24/03/2024: We have launched a new website!
