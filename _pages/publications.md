@@ -22,9 +22,9 @@ redirect_from:
 * Yang, X., Zhou, Y., Zhao, H., **Huang, W.**, Wang, Y., Hsia, K.J. and Liu, M., 2023. Morphing matter: From mechanical principles to robotic applications. **`Soft Science`**, 3(4), p.38.
 * **Huang, W.**, Liu, M. and Hsia, K.J., 2023. Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. **`Extreme Mechanics Letters`**, 59, p.101967.
 * **Huang, W.**, Liu, M. and Hsia, K.J., 2023. A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. **`Extreme Mechanics Letters`**, 59, p.101977.
-* Qin, L., Peng, H., Huang, X., Liu, M. and **Huang, W.**, 2023. Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. **`Current Robotics Reports`**, pp.1-13.
+* Qin, L., Peng, H., Huang, X., Liu, M. <sup>#</sup> and **Huang, W.** <sup>#</sup>, 2023. Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. **`Current Robotics Reports`**, pp.1-13.
 * **Huang, W.**, Zhang, Y., Yu, T. and Liu, M., 2023. Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method. **`Journal of Applied Mechanics`**, 90(9).
-* **Huang, W.**, Zou, H., Pan, Y., Zhang, K., Zheng, J., Li, J. and Mao, S., 2023. Numerical simulation and behavior prediction of a space net system throughout the capture process: Spread, contact, and close. **`International Journal of Mechanical System Dynamics`**, 3(3), pp.265-273.
+* **Huang, W.** <sup>#</sup>, Zou, H., Pan, Y., Zhang, K., Zheng, J., Li, J. and Mao, S., 2023. Numerical simulation and behavior prediction of a space net system throughout the capture process: Spread, contact, and close. **`International Journal of Mechanical System Dynamics`**, 3(3), pp.265-273.
 * **Huang, W.**, Zou, H., Liu, H., Yang, W., Gao, J. and Liu, Z., 2023. Contact dynamic analysis of tether-net system for space debris capture using incremental potential formulation. **`Advances in Space Research`**, 72(6), pp.2039-2050.
 * **Huang, W.**, He, D., Tong, D., Chen, Y., Huang, X., Qin, L. and Fei, Q., 2023. Static analysis of elastic cable structures under mechanical load using discrete catenary theory. **`Fundamental Research`**, 3(6), pp.967-973.
 * Tong, D., Choi, A., Qin, L., **Huang, W.**, Joo, J. and Jawed, M.K., 2023. Sim2real neural controllers for physics-based robotic deployment of deformable linear objects. **`The International Journal of Robotics Research`**, p.02783649231214553.
@@ -33,7 +33,7 @@ redirect_from:
 2022
 ---
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Numerical exploration on snap buckling of a pre-stressed hemispherical gridshell. **`Journal of Applied Mechanics`**, 89(1), p.011005.
-* Qin, L., Zhu, J. and **Huang, W.**, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. **`International Journal for Numerical Methods in Engineering`**, 123(11), pp.2556-2572.
+* Qin, L., Zhu, J. and **Huang, W.** <sup>#</sup>, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. **`International Journal for Numerical Methods in Engineering`**, 123(11), pp.2556-2572.
 * Xu, P., Zhou, Z., **Huang, W.**, Chen, Q., Lu, F. and Liu, T., 2022. The evolution mechanisms of bearing-tension-shear failure modes of FML joints under in-plane dynamic load. **`Composites Communications`**, 32, p.101174.
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Natural frequencies of pre-buckled rods and gridshells. **`Applied Mathematical Modelling`**, 107, pp.621-636.
 * **Huang, W.**, Ma, C., Chen, Q. and Qin, L., 2022. A discrete differential geometry-based numerical framework for extensible ribbons. **`International Journal of Solids and Structures`**, 248, p.111619.
