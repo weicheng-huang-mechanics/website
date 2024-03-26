@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#####
+-------
 
 (<sup>1</sup> indicates the co-first author and <sup>#</sup> indicates the corresponding author)
 
