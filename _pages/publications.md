@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+---
 
 **You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=KbEBKIMAAAAJ&hl=ena).**
 
