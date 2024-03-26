@@ -13,7 +13,7 @@ redirect_from:
 
 **SMA-powered soft robots**
 
-Dynamic simulation of shape memory alloy-powered soft robots, for both on-land motion ad underwater swimming.
+Dynamic simulation of shape memory alloy-powered soft robots, for both on-land motion and underwater swimming.
 
 <br/><img src='../images/smarobot.png'>
 
