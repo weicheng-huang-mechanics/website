@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+(1 indicates the co-first author and # indicates the corresponding author)
+
+<sup></sup>
+
 2024
 ---
 * Liu, Z., Bian, P.L., Qu, Y., **Huang, W.**, Chen, L., Chen, J., Saxena, P. and Yu, T., 2024. A Galerkin approach for analysing coupling effects in the piezoelectric semiconducting beams. **`European Journal of Mechanics-A/Solids`**, 103, p.105145.
