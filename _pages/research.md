@@ -19,6 +19,8 @@ Dynamic simulation of shape memory alloy-powered soft robots, for both on-land m
 
 ---
 
+https://www.youtube.com/watch?v=jvFlkceFoeM&t=52s
+
 **Magnetic rods & robots**
 
 Magnetoelastic model for slender structures and the associated framework for the magnetic-powered soft robots.
