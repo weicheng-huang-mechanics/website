@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-<br/><img src='../images/111.gif'>
+<br/><img src='../images/111.gif' width="20">
 
 
 **SMA-powered soft robots**
