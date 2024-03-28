@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ---
-  
+
+<br/><img src='../images/111.gif'>
+
+
 **SMA-powered soft robots**
 
 Dynamic simulation of shape memory alloy-powered soft robots, for both on-land motion and underwater swimming.
