@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Demos"
-permalink: /demo/
+permalink: /demos/
 author_profile: true
 redirect_from:
   - /resume
