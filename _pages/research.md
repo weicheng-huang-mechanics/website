@@ -12,6 +12,7 @@ redirect_from:
 ---
 
 <video src='../images/123.mov' width=180/>
+
   
 **SMA-powered soft robots**
 
