@@ -11,8 +11,6 @@ redirect_from:
 
 ---
 
----
-
 **Here we present some interesting videos from our numerical simulators.**
 
 ---
