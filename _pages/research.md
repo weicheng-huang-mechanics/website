@@ -18,8 +18,6 @@ Dynamic simulation of shape memory alloy-powered soft robots, for both on-land m
 <br/><img src='../images/smarobot.png'>
 
 ---
-
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
   
 **Magnetic rods & robots**
 
