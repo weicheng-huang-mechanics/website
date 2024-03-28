@@ -11,5 +11,9 @@ redirect_from:
 
 ---
 
-<br/><img src='../images/111.gif' width="800">
+---
+
+
+1. Rolling motion of sma-powered soft robots
+<br/><img src='../gif/dancenet.gif' width="800">
 
