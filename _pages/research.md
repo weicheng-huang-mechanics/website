@@ -10,9 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ---
-
-<video src='../images/123.mov' width=180/>
-
   
 **SMA-powered soft robots**
 
