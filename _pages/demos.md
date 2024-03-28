@@ -15,5 +15,5 @@ redirect_from:
 
 
 1. Rolling motion of sma-powered soft robots
-<br/><img src='../gif/dancenet.gif' width="800">
+<br/><img src='../gif/dancenet.gif' width="600">
 
