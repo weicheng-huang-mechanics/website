@@ -11,5 +11,5 @@ redirect_from:
 
 ---
 
-<br/><img src='../images/111.gif' width="200">
+<br/><img src='../images/111.gif' width="800">
 
