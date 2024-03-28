@@ -85,23 +85,23 @@ redirect_from:
 
 ---
 
-12. Snap-induced jumping robot.
-<br/><img src='../gif/snapjumprobot.gif' width="600">
-
----
-
-11. The rotational-induced flip of an elastic strip.
+12. The rotational-induced flip of an elastic strip.
 <br/><img src='../gif/stripflip.gif' width="600">
 
 ---
 
-10. The rotational-induced snap-through of an elastic strip.
+11. The rotational-induced snap-through of an elastic strip.
 <br/><img src='../gif/stripsnap.gif' width="600">
 
 ---
 
-9. Contact between two rods.
+10. Contact between two rods.
 <br/><img src='../gif/tworod.gif' width="600">
+
+---
+
+9. Snap-induced jumping robot.
+<br/><img src='../gif/snapjumprobot.gif' width="600">
 
 ---
 
