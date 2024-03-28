@@ -15,6 +15,8 @@ redirect_from:
 
 ---
 
+
+
 Dancing net.
 <br/><img src='../gif/dancenet.gif' width="600">
 
