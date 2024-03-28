@@ -19,7 +19,7 @@ Dynamic simulation of shape memory alloy-powered soft robots, for both on-land m
 
 ---
 
-https://github.com/weicheng-huang-mechanics/website/blob/master/_video/ringfold.mov
+[https://github.com/weicheng-huang-mechanics/website/blob/master/_video/ringfold.mov](https://github.com/weicheng-huang-mechanics/website/blob/master/_video/ringfold.mp4)
 
 **Magnetic rods & robots**
 
