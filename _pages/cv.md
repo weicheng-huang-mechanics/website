@@ -18,16 +18,16 @@ Education Background
 
 Faculty Appointment
 ---
-* Lecturer (Assistant professor), School of Engineering, Newcastle University, 2024/02 - Current
-* Associate professor, School of Mechanical Engineering, Southeast University, 2021/06 - 2023/12
+* Lecturer (Assistant professor), School of Engineering, Newcastle University, 2024/02 - Current.
+* Associate professor, School of Mechanical Engineering, Southeast University, 2021/06 - 2023/12.
 
 Awards and Honors
 ---
-* UCLA Harry Showman Prize, sole winner among the entire School of Engineering, 2021
-* UCLA Outstanding Ph.D. Award, 2021
-* UCLA MAE Best Poster Award, 2020
-* UCLA Dissertation Year Fellowship, 2020
-* Shanghai Outstanding Graduate, sole winner among the entire Department of Engineering Mechanics, 2017
+* UCLA Harry Showman Prize, sole winner among the entire School of Engineering, 2021.
+* UCLA Outstanding Ph.D. Award, 2021.
+* UCLA MAE Best Poster Award, 2020.
+* UCLA Dissertation Year Fellowship, 2020.
+* Shanghai Outstanding Graduate, sole winner among the entire Department of Engineering Mechanics, 2017.
 
 Service and leadership
 ---
