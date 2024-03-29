@@ -23,11 +23,11 @@ Faculty Appointment
 
 Awards and Honors
 ---
-* UCLA Harry Showman Prize, 2021
+* UCLA Harry Showman Prize, 2021 (*sole winner among School of Engineering*)
 * UCLA Outstanding Ph.D. Award, 2021
 * UCLA MAE Best Poster Award, 2020
 * UCLA Dissertation Year Fellowship, 2020
-* Shanghai Outstanding Graduate, 2017
+* Shanghai Outstanding Graduate, 2017 (*sole winner among Department of Engineering Mechanics*)
 
 Service and leadership
 ---
