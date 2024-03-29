@@ -113,6 +113,18 @@ Contact between two rods.
 
 ---
 
+Rod deployment with a prescribed pattern.
+
+<br/><img src='../gif/deploymentrod.gif' width="600">
+
+---
+
+Inverse design of a planar beam with a target configuration.
+
+<br/><img src='../gif/inverserod.gif' width="600">
+
+---
+
 Snap-induced jumping robot.
 
 <br/><img src='../gif/snapjumprobot.gif' width="600">
