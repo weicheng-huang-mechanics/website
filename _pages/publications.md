@@ -58,9 +58,9 @@ redirect_from:
 
 2020
 ---
-* **Huang, W.** and Jawed, M.K., 2020. Numerical exploration on buckling instability for directional control in flagellar propulsion. [Soft matter](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm01843c), 16(3), pp.604-613.
+* **Huang, W.** and Jawed, M.K., 2020. Numerical exploration on buckling instability for directional control in flagellar propulsion. [Soft Matter](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm01843c), 16(3), pp.604-613.
 * Li, X. <sup>1</sup>, **Huang, W.** <sup>1</sup> and Jawed, M.K., 2020. A discrete differential geometry-based approach to numerical simulation of Timoshenko beam. [Extreme Mechanics Letters](https://doi.org/10.1016/j.eml.2019.100622), 35, p.100622.
-* **Huang, W.**, Huang, X., Majidi, C. and Jawed, M.K., 2020. Dynamic simulation of articulated soft robots. [Nature communications](https://www.nature.com/articles/s41467-020-15651-9), 11(1), p.2233.
+* **Huang, W.**, Huang, X., Majidi, C. and Jawed, M.K., 2020. Dynamic simulation of articulated soft robots. [Nature Communications](https://www.nature.com/articles/s41467-020-15651-9), 11(1), p.2233.
 * Li, X. <sup>1</sup>, **Huang, W.** <sup>1</sup> and Jawed, M.K., 2020. Discrete elasto-plastic rods. [Extreme Mechanics Letters](https://doi.org/10.1016/j.eml.2020.100767), 38, p.100767.
 * Qin, L. <sup>1</sup>, **Huang, W.** <sup>1</sup>, Du, Y., Zheng, L. and Jawed, M.K., 2020. Genetic algorithm-based inverse design of elastic gridshells. [Structural and Multidisciplinary Optimization](https://link.springer.com/article/10.1007/s00158-020-02639-8), 62, pp.2691-2707.
 * **Huang, W.**, Wang, Y., Li, X. and Jawed, M.K., 2020. Shear induced supercritical pitchfork bifurcation of pre-buckled bands, from narrow strips to wide plates. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2020.104168), 145, p.104168.
