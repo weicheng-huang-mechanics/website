@@ -62,9 +62,9 @@ redirect_from:
 * Li, X. <sup>1</sup>, **Huang, W.** <sup>1</sup> and Jawed, M.K., 2020. A discrete differential geometry-based approach to numerical simulation of Timoshenko beam. **`Extreme Mechanics Letters`**, 35, p.100622.
 * **Huang, W.**, Huang, X., Majidi, C. and Jawed, M.K., 2020. Dynamic simulation of articulated soft robots. **`Nature communications`**, 11(1), p.2233.
 * Li, X. <sup>1</sup>, **Huang, W.** <sup>1</sup> and Jawed, M.K., 2020. Discrete elasto-plastic rods. **`Extreme Mechanics Letters`**, 38, p.100767.
-* Qin, L. <sup>1</sup>, **Huang, W.** <sup>1</sup>, Du, Y., Zheng, L. and Jawed, M.K., 2020. Genetic algorithm-based inverse design of elastic gridshells. **`Structural and Multidisciplinary Optimization`**, 62, pp.2691-2707.
-* **Huang, W.**, Wang, Y., Li, X. and Jawed, M.K., 2020. Shear induced supercritical pitchfork bifurcation of pre-buckled bands, from narrow strips to wide plates. **`Journal of the Mechanics and Physics of Solids`**, 145, p.104168.
+* Qin, L. <sup>1</sup>, **Huang, W.** <sup>1</sup>, Du, Y., Zheng, L. and Jawed, M.K., 2020. Genetic algorithm-based inverse design of elastic gridshells. [Structural and Multidisciplinary Optimization](https://link.springer.com/article/10.1007/s00158-020-02639-8), 62, pp.2691-2707.
+* **Huang, W.**, Wang, Y., Li, X. and Jawed, M.K., 2020. Shear induced supercritical pitchfork bifurcation of pre-buckled bands, from narrow strips to wide plates. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2020.104168), 145, p.104168.
 
 2019
 ---
-* **Huang, W.** and Jawed, M.K., 2019. Newmark-beta method in discrete elastic rods algorithm to avoid energy dissipation. **`Journal of Applied Mechanics`**, 86(8), p.084501.
+* **Huang, W.** and Jawed, M.K., 2019. Newmark-beta method in discrete elastic rods algorithm to avoid energy dissipation. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4043793), 86(8), p.084501.
