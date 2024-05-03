@@ -15,6 +15,11 @@ redirect_from:
 
 ---
 
+Capture of space debris using a tether-net system.
+<br/><img src='../gif/netcapture.gif' width="600">
+
+---
+
 Dancing net.
 <br/><img src='../gif/dancenet.gif' width="600">
 
@@ -27,11 +32,6 @@ Form-finding of a hollow gridshell by using buckling instability.
 
 Snap of a pre-stressed elastic gridshell.
 <br/><img src='../gif/gridshellsnap.gif' width="600">
-
----
-
-Capture of space debris using a tether-net system.
-<br/><img src='../gif/netcapture.gif' width="600">
 
 ---
 
