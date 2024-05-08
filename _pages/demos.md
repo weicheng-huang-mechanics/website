@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 Capture of space debris using a tether-net system.
-<br/><img src='../gif/netcapture.gif' width="600">
+<br/><img src='../gif/netCapture.gif' width="600">
 
 ---
 
