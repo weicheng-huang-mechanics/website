@@ -15,6 +15,11 @@ redirect_from:
 
 ---
 
+Symmetric and asymmetric snap-through
+<br/><img src='../gif/sasnap' width="600">
+
+---
+
 Capture of space debris using a tether-net system.
 <br/><img src='../gif/netcapture.gif' width="600">
 
