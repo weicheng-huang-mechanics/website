@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 Symmetric and asymmetric snap-through
-<br/><img src='../gif/sasnap' width="600">
+<br/><img src='../gif/sasnap.gif' width="600">
 
 ---
 
