@@ -15,6 +15,11 @@ redirect_from:
 
 ---
 
+The rotational-induced snap-through of an elastic strip.
+<br/><img src='../gif/stripsnap.gif' width="600">
+
+---
+
 Symmetric and asymmetric snap-through
 <br/><img src='../gif/sasnap.gif' width="600">
 
@@ -87,11 +92,6 @@ Multistability of an origami annulus.
 
 The rotational-induced flip of an elastic strip.
 <br/><img src='../gif/stripflip.gif' width="600">
-
----
-
-The rotational-induced snap-through of an elastic strip.
-<br/><img src='../gif/stripsnap.gif' width="600">
 
 ---
 
