@@ -15,16 +15,6 @@ redirect_from:
 
 ---
 
-The rotational-induced snap-through of an elastic strip.
-<br/><img src='../gif/stripsnap2.gif' width="600">
-
----
-
-Symmetric and asymmetric snap-through
-<br/><img src='../gif/sasnap.gif' width="600">
-
----
-
 Capture of space debris using a tether-net system.
 <br/><img src='../gif/netcapture.gif' width="600">
 
@@ -35,13 +25,13 @@ Dancing net.
 
 ---
 
-Form-finding of a hollow gridshell by using buckling instability.
-<br/><img src='../gif/gridshellbuckling.gif' width="600">
+Handling cloth.
+<br/><img src='../gif/hanglecloth.gif' width="600">
 
 ---
 
-Snap of a pre-stressed elastic gridshell.
-<br/><img src='../gif/gridshellsnap.gif' width="600">
+Cloth simulation.
+<br/><img src='../gif/cloth.gif' width="600">
 
 ---
 
@@ -50,13 +40,23 @@ Snap of an elastic gridshell.
 
 ---
 
-Handling cloth.
-<br/><img src='../gif/hanglecloth.gif' width="600">
+Rolling motion of SMA-powered soft robots. 
+<br/><img src='../gif/rolling.gif' width="600">
 
 ---
 
-Cloth simulation.
-<br/><img src='../gif/cloth.gif' width="600">
+Swimming motion of SMA-powered soft robots. 
+<br/><img src='../gif/swimming.gif' width="600">
+
+---
+
+The crawling motion of a cilia robot.
+<br/><img src='../gif/magc.gif' width="600">
+
+---
+
+The rolling motion of a cilia robot.
+<br/><img src='../gif/magr.gif' width="600">
 
 ---
 
@@ -75,6 +75,16 @@ Elastic-plastic rod.
 
 ---
 
+Form-finding of a hollow gridshell by using buckling instability.
+<br/><img src='../gif/gridshellbuckling.gif' width="600">
+
+---
+
+Snap of a pre-stressed elastic gridshell.
+<br/><img src='../gif/gridshellsnap.gif' width="600">
+
+---
+
 A rigid ring sliding on an elastic rod.
 <br/><img src='../gif/ring.gif' width="600">
 
@@ -87,6 +97,16 @@ Folding of an annular ribbon.
 
 Multistability of an origami annulus.
 <br/><img src='../gif/ringtrans.gif' width="600">
+
+---
+
+The rotational-induced snap-through of an elastic strip.
+<br/><img src='../gif/stripsnap2.gif' width="600">
+
+---
+
+Symmetric and asymmetric snap-through
+<br/><img src='../gif/sasnap.gif' width="600">
 
 ---
 
@@ -112,26 +132,6 @@ Inverse design of a planar beam with a target configuration.
 
 Snap-induced jumping robot.
 <br/><img src='../gif/snapjumprobot.gif' width="600">
-
----
-
-Rolling motion of SMA-powered soft robots. 
-<br/><img src='../gif/rolling.gif' width="600">
-
----
-
-Swimming motion of SMA-powered soft robots. 
-<br/><img src='../gif/swimming.gif' width="600">
-
----
-
-The crawling motion of a cilia robot.
-<br/><img src='../gif/magc.gif' width="600">
-
----
-
-The rolling motion of a cilia robot.
-<br/><img src='../gif/magr.gif' width="600">
 
 ---
 
