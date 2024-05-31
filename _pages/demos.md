@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 The rotational-induced snap-through of an elastic strip.
-<br/><img src='../gif/stripsnap.gif' width="600">
+<br/><img src='../gif/stripsnap2.gif' width="600">
 
 ---
 
