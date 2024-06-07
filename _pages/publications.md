@@ -24,6 +24,7 @@ redirect_from:
 * **Huang, W.**, Yu, T., Hsia, K.J., Adriaenssens, S. and Liu, M., 2024. Integration of kinks and creases enables tunable folding in meta-ribbons. [Matter](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2).
 * Liu, Z., Bian, P.L., Qu, Y., **Huang, W.**, Chen, L., Chen, J., Saxena, P. and Yu, T., 2024. A Galerkin approach for analysing coupling effects in the piezoelectric semiconducting beams. [European Journal of Mechanics-A/Solids](https://doi.org/10.1016/j.euromechsol.2023.105145).
 * Liu, Z., McBride, A., Ghosh, A., Heltai, L., **Huang, W.**, Yu, T., Steinmann, P. and Saxena, P., 2024. Computational instability analysis of inflated hyperelastic thin shells using subdivision surfaces. [Computational Mechanics](https://link.springer.com/article/10.1007/s00466-023-02366-z).
+* Tong, D., Choi, A., Qin, L., **Huang, W.**, Joo, J. and Jawed, M.K., 2024. Sim2real neural controllers for physics-based robotic deployment of deformable linear objects. [The International Journal of Robotics Research](https://doi.org/10.1177/02783649231214553).
 
 2023
 ---
@@ -35,7 +36,6 @@ redirect_from:
 * **Huang, W.** <sup>#</sup>, Zou, H., Pan, Y., Zhang, K., Zheng, J., Li, J. and Mao, S., 2023. Numerical simulation and behavior prediction of a space net system throughout the capture process: Spread, contact, and close. [International Journal of Mechanical System Dynamics](https://doi.org/10.1002/msd2.12084).
 * **Huang, W.**, Zou, H., Liu, H., Yang, W., Gao, J. and Liu, Z., 2023. Contact dynamic analysis of tether-net system for space debris capture using incremental potential formulation. [Advances in Space Research](https://doi.org/10.1016/j.asr.2023.05.054).
 * **Huang, W.**, He, D., Tong, D., Chen, Y., Huang, X., Qin, L. and Fei, Q., 2023. Static analysis of elastic cable structures under mechanical load using discrete catenary theory. [Fundamental Research](https://doi.org/10.1016/j.fmre.2022.03.011).
-* Tong, D., Choi, A., Qin, L., **Huang, W.**, Joo, J. and Jawed, M.K., 2023. Sim2real neural controllers for physics-based robotic deployment of deformable linear objects. [The International Journal of Robotics Research](https://doi.org/10.1177/02783649231214553).
 
 
 2022
