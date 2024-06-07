@@ -18,7 +18,9 @@ redirect_from:
 
 2024
 ---
+
 * Liu, Z., Bian, P.L., Qu, Y., **Huang, W.**, Chen, L., Chen, J., Saxena, P. and Yu, T., 2024. A Galerkin approach for analysing coupling effects in the piezoelectric semiconducting beams. [European Journal of Mechanics-A/Solids](https://doi.org/10.1016/j.euromechsol.2023.105145), 103, p.105145.
+* Huang, W., Yu, T., Vella, D., Hsia, K.J. and Liu, M., 2024. Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105721), p.105721.
 * Liu, Z., McBride, A., Ghosh, A., Heltai, L., **Huang, W.**, Yu, T., Steinmann, P. and Saxena, P., 2024. Computational instability analysis of inflated hyperelastic thin shells using subdivision surfaces. [Computational Mechanics](https://link.springer.com/article/10.1007/s00466-023-02366-z), 73(2), pp.257-276.
 
 2023
