@@ -19,6 +19,7 @@ redirect_from:
 2024
 ---
 
+* Wang, Q., Giudici, A., **Huang, W.**, Wang, Y., Liu, M., Tawfick, S. and Vella, D., 2024. Transient amplification of broken symmetry in elastic snap-through. [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.267201).
 * **Huang, W.**, Yu, T., Vella, D., Hsia, K.J. and Liu, M., 2024. Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105721).
 * **Huang, W.**, Xu, P. and Liu, Z., 2024. Dynamic modeling of a sliding ring on an elastic rod with incremental potential formulation. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4065625).
 * **Huang, W.**, Yu, T., Hsia, K.J., Adriaenssens, S. and Liu, M., 2024. Integration of kinks and creases enables tunable folding in meta-ribbons. [Matter](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2).
