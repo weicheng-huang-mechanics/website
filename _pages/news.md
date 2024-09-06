@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 02/08/2024: Dr. Weicheng Huang delivered an invited talk at the University of Glasgow.
+  
 * 26/06/2024: Our paper, ‘Transient amplification of broken symmetry in elastic snap-through’, has been published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.267201).
 
 * 04/06/2024: Our paper, ‘Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection’, has been published in [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105721).
