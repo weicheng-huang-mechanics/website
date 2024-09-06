@@ -15,6 +15,17 @@ redirect_from:
 
 ---
 
+Soft continuum robot moving in a tube.
+<br/><img src='../gif/tube.gif' width="600">
+
+
+---
+
+Magnetic beam.
+<br/><img src='../gif/mag.gif' width="600">
+
+---
+
 Capture of space debris using a tether-net system.
 <br/><img src='../gif/netcapture.gif' width="600">
 
