@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-Soft continuum robot moving in a tube.
+Soft continuum guidewire moving in a tube.
 <br/><img src='../gif/tube.gif' width="600">
 
 
