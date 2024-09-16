@@ -13,7 +13,9 @@ redirect_from:
 
 Newcastle University
 ---
-* Coming soon
+* Mechanical Engineering Professional Skills II - MEC2008
+* Mechanical Engineering Project - MEC3098
+* MSc Project: Mechanical and Systems Engineering - MEC8095
 
 
 Southeast University
