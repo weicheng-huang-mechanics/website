@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-**The code can bee found in .**
+**All released codes can be found here.**
