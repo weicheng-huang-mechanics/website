@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-**All released codes can be found [here](https://github.com/weicheng-huang-mechanics?tab=repositories).**
+**All our released codes can be found in [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).**
