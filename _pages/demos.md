@@ -15,6 +15,21 @@ redirect_from:
 
 ---
 
+Rolling motion of SMA-powered soft robots. 
+<br/><img src='../gif/rolling.gif' width="600">
+
+---
+
+Swimming motion of SMA-powered soft robots. 
+<br/><img src='../gif/swimming.gif' width="600">
+
+---
+
+Capture of space debris using a tether-net system.
+<br/><img src='../gif/netcapture.gif' width="600">
+
+---
+
 Soft continuum guidewire moving in a tube.
 <br/><img src='../gif/tube.gif' width="600">
 
@@ -23,11 +38,6 @@ Soft continuum guidewire moving in a tube.
 
 Magnetic beam.
 <br/><img src='../gif/mag.gif' width="600">
-
----
-
-Capture of space debris using a tether-net system.
-<br/><img src='../gif/netcapture.gif' width="600">
 
 ---
 
@@ -48,16 +58,6 @@ Cloth simulation.
 
 Snap of an elastic gridshell.
 <br/><img src='../gif/shellsnap.gif' width="600">
-
----
-
-Rolling motion of SMA-powered soft robots. 
-<br/><img src='../gif/rolling.gif' width="600">
-
----
-
-Swimming motion of SMA-powered soft robots. 
-<br/><img src='../gif/swimming.gif' width="600">
 
 ---
 
