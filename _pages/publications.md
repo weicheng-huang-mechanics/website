@@ -19,6 +19,7 @@ redirect_from:
 2024
 ---
 
+* Liu, Z., Liu, M. <sup>#</sup>, Hsia, K.J., Huang, X., and **Huang, W.** <sup>#</sup>. Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. [Thin-Walled Structures](https://doi.org/10.1016/j.tws.2024.112502).
 * **Huang, W.**, Liu, T., Liu, Z., Xu, P., Liu, M., Chen, Y. and Hsia, K.J., 2024. Discrete differential geometry-based model for nonlinear analysis of axisymmetric shells. [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2024.109742).
 * Wang, Q., Giudici, A., **Huang, W.**, Wang, Y., Liu, M., Tawfick, S. and Vella, D., 2024. Transient amplification of broken symmetry in elastic snap-through. [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.267201).
 * **Huang, W.**, Yu, T., Vella, D., Hsia, K.J. and Liu, M., 2024. Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105721).
