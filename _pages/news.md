@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 01/10/2024: Our paper, ‘Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications’, has been published in [Thin-Walled Structures](https://doi.org/10.1016/j.tws.2024.112502).
+
 * 21/09/2024: Our paper, ‘Discrete differential geometry-based model for nonlinear analysis of axisymmetric shells’, has been published in [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2024.109742).
 
 * 02/08/2024: Dr. Weicheng Huang delivered an invited talk at the University of Glasgow.
