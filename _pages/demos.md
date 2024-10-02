@@ -76,7 +76,7 @@ Jumping behavior of a bi-stable shell actuator.
 
 ---
 
-inflation of an axisymmetric torus。
+Inflation of an axisymmetric torus。
 <br/><img src='../gif/torus.gif' width="600">
 
 ---
