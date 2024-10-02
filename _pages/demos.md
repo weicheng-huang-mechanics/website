@@ -76,6 +76,11 @@ Jumping behavior of a bi-stable shell actuator.
 
 ---
 
+inflation of an axisymmetric torus。
+<br/><img src='../gif/torus.gif' width="600">
+
+---
+
 Shear-induced bifurcation of an elastic plate.
 <br/><img src='../gif/platebifu.gif' width="600">
 
