@@ -88,6 +88,6 @@ Isogeometric-based finite element analysis of 3D hyperelastic shells.
 
 Complex bifurcation behaviors and the tunable buckling in thin elastic structures.
 
-<br/><img src='../images/bifurcation.png'>
+<br/><img src='../images/bifurcation2.png'>
 
 ---
