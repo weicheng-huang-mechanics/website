@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 11/10/2024: Dr. Weicheng Huang delivered an invited online talk for the [UK Metamaterials Network](https://cassyni.com/events/FR3DbJ1FBeYGWWGwWFBWaZ).
+
 * 04/10/2024: Dr. Weicheng Huang delivered an invited talk at the University of Leeds.
  
 * 01/10/2024: Our paper, ‘Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications’, has been published in [Thin-Walled Structures](https://doi.org/10.1016/j.tws.2024.112502).
