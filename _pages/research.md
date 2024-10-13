@@ -28,7 +28,7 @@ Magnetoelastic model for slender structures and the associated framework for the
 
 ---
 
-**Flagellar proposition**
+**Flagellar propulsion**
 
 Fluid-structure interaction model for a soft filament moving in a viscous fluid to mimic the bio-locomotion of bacterial flagella.
 
