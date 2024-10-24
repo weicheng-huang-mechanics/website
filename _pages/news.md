@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 23/10/2024: Dr. Weicheng Huang delivered an invited talk at the University of Exeter.
+* 
 * 11/10/2024: Dr. Weicheng Huang delivered an invited online talk for the [UK Metamaterials Network](https://cassyni.com/events/FR3DbJ1FBeYGWWGwWFBWaZ).
 
 * 04/10/2024: Dr. Weicheng Huang delivered an invited talk at the University of Leeds.
