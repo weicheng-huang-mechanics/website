@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 30/10/2024 Our paper, ‘Snap-through eversion of axisymmetric shells under contact indentation’, has been published in [Proceedings of the Royal Society A](https://doi.org/10.1098/rspa.2024.0303).
+
 * 23/10/2024: Dr. Weicheng Huang delivered an invited talk at the University of Exeter.
 
 * 11/10/2024: Dr. Weicheng Huang delivered an invited online talk for the [UK Metamaterials Network](https://cassyni.com/events/FR3DbJ1FBeYGWWGwWFBWaZ).
