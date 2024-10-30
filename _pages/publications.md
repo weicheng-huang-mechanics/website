@@ -19,6 +19,7 @@ redirect_from:
 2024
 ---
 
+* **Huang, W.**, Liu, Z., Liu, M., Hsia, K.J., 2024. Snap-through eversion of axisymmetric shells under contact indentation. [Proceedings of the Royal Society A](https://doi.org/10.1098/rspa.2024.0303).
 * Liu, Z., Liu, M. <sup>#</sup>, Hsia, K.J., Huang, X., and **Huang, W.** <sup>#</sup>, 2024. Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. [Thin-Walled Structures](https://doi.org/10.1016/j.tws.2024.112502).
 * **Huang, W.**, Liu, T., Liu, Z., Xu, P., Liu, M., Chen, Y. and Hsia, K.J., 2024. Discrete differential geometry-based model for nonlinear analysis of axisymmetric shells. [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2024.109742).
 * Wang, Q., Giudici, A., **Huang, W.**, Wang, Y., Liu, M., Tawfick, S. and Vella, D., 2024. Transient amplification of broken symmetry in elastic snap-through. [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.267201).
