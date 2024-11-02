@@ -15,6 +15,7 @@ Newcastle University
 ---
 * Mechanical Engineering Professional Skills II - MEC2008
 * Mechanical Engineering Project - MEC3098
+* Mechanical Engineering Team Project - MEC8099
 * MSc Project: Mechanical and Systems Engineering - MEC8095
 
 
