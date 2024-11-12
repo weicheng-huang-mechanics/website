@@ -16,6 +16,11 @@ redirect_from:
 
 (<sup>1</sup> indicates the co-first author and <sup>#</sup> indicates the corresponding author)
 
+2025
+--
+
+* Shi, Q., **Huang, W.** <sup>#</sup>, Yu, T. <sup>#</sup>, Li, M. <sup>#</sup>, 2025. Double-eigenvalue bifurcation and multistability in serpentine strips with tunable buckling behaviors. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105922).
+
 2024
 ---
 
