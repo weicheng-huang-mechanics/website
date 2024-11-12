@@ -131,6 +131,11 @@ Symmetric and asymmetric snap-through
 
 ---
 
+Minimum surface by an elastic curve.
+<br/><img src='../gif/min_surface.gif' width="600">
+
+---
+
 The rotational-induced flip of an elastic strip.
 <br/><img src='../gif/stripflip.gif' width="600">
 
