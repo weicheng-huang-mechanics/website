@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 26/12/2024 Our paper, ‘Inverse design of snap-actuated jumping robots powered by mechanics-aided machine learning’, has been published in [IEEE Robotics and Automation Letters](https://doi.org/10.1109/LRA.2024.3523218).
+
 * 12/11/2024 Our paper, ‘Double-eigenvalue bifurcation and multistability in serpentine strips with tunable buckling behaviors’, has been published in [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105922).
 
 * 30/10/2024 Our paper, ‘Snap-through eversion of axisymmetric shells under contact indentation’, has been published in [Proceedings of the Royal Society A](https://doi.org/10.1098/rspa.2024.0303).
