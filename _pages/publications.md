@@ -19,6 +19,7 @@ redirect_from:
 2025
 --
 
+* Tong D., Hao, Z., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Inverse design of snap-actuated jumping robots powered by mechanics-aided machine learning. [IEEE Robotics and Automation Letters](https://doi.org/10.1109/LRA.2024.3523218).
 * Shi, Q., **Huang, W.** <sup>#</sup>, Yu, T. <sup>#</sup>, Li, M. <sup>#</sup>, 2025. Double-eigenvalue bifurcation and multistability in serpentine strips with tunable buckling behaviors. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105922).
 
 2024
