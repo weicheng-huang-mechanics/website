@@ -25,6 +25,31 @@ Swimming motion of SMA-powered soft robots.
 
 ---
 
+Bilayer soft robot for gripping.
+<br/><img src='../gif/ais1.gif' width="600">
+
+---
+
+Bilayer soft robot for crawling.
+<br/><img src='../gif/ais2.gif' width="600">
+
+---
+
+Bilayer soft robot for crawling.
+<br/><img src='../gif/ais3.gif' width="600">
+
+---
+
+Bilayer soft robot for jumping.
+<br/><img src='../gif/ais4.gif' width="600">
+
+---
+
+Bilayer soft robot for swimming.
+<br/><img src='../gif/ais5.gif' width="600">
+
+---
+
 Capture of space debris using a tether-net system.
 <br/><img src='../gif/netcapture.gif' width="600">
 
