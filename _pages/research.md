@@ -11,7 +11,11 @@ redirect_from:
 
 ---
 
-Where $x = 0$, evaluate $x + 1$
+Where
+$$x = 0$$
+
+Evaluate
+$$x + 1$$
 
 **SMA-powered soft robots**
 
