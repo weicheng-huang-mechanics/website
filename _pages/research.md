@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+Where $x = 0$, evaluate $x + 1$
+
 ```math
 SE = \frac{\sigma}{\sqrt{n}}
 ```
