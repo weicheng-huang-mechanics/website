@@ -11,12 +11,6 @@ redirect_from:
 
 ---
 
-Where $x = 0$, evaluate $x + 1$
-
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
-
 **SMA-powered soft robots**
 
 Dynamic simulation of shape memory alloy-powered soft robots, for both on-land motion and underwater swimming.
