@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-* 10/03/2025 Our paper, ‘Inverse design of planar clamped-free elastic rods from noisy data’, has been published in [International Journal for Numerical Methods in Engineering](https://doi.org/10.1002/nme.70018).
+* 10/03/2025 Our paper, ‘Inverse design of planar clamped-free elastic rods from noisy data’, has been published in [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018).
 
 * 26/12/2024 Our paper, ‘Inverse design of snap-actuated jumping robots powered by mechanics-aided machine learning’, has been published in [IEEE Robotics and Automation Letters](https://doi.org/10.1109/LRA.2024.3523218).
 
