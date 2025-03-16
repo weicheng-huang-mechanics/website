@@ -96,7 +96,7 @@ Case_2: [Hyperelastic axisymmetric membrane](https://github.com/weicheng-huang-m
 <br/><img src='../gif/hyper_2.gif' width="600">
 
 ---
-Soft_robot
+External_interaction
 
 Case_1: [Magnetic actuation](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/soft_robot/Case_1)
 <br/><img src='../gif/robot_1.gif' width="600">
