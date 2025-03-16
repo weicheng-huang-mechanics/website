@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-# DDG_Tutorial
+# [DDG_Tutorial](https://github.com/weicheng-huang-mechanics/DDG_Tutorial)
 
 ## Mass_spring_system
 
