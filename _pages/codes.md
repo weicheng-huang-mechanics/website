@@ -12,11 +12,11 @@ redirect_from:
 ---
 
 
-# All of our other released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).
+**All of our other released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).**
 
 ---
 
-# Discrete differential geometry for flexible structural dynamics
+**Discrete differential geometry for flexible structural dynamics**
 
 ## Mass_spring_system
 
