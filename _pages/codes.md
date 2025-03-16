@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-# [DDG_Tutorial](https://github.com/weicheng-huang-mechanics/DDG_Tutorial)
+# DDG_Tutorial
 
 ## Mass_spring_system
 
@@ -93,4 +93,4 @@ case_3: [Frictional contact](https://github.com/weicheng-huang-mechanics/DDG_Tut
 <br/><img src='../gif/robot_3.gif' width="600">
 
 
-# All of our released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).
+# All of our other released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).
