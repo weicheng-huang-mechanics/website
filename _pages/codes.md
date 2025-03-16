@@ -15,63 +15,101 @@ redirect_from:
 
 # DDG_Tutorial
 
-## mass_spring_system
-single_DOF: [Single DOF mass spring system](mass_spring_system/single_DOF)
+## Mass_spring_system
+single_DOF: [Single DOF mass spring system](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/mass_spring_system/single_DOF)
 
 <br/><img src='../gif/dof_single.gif' width="600">
 
-multiple_DOF: [Multiple DOF mass spring system](mass_spring_system/multiple_DOF)
+multiple_DOF: [Multiple DOF mass spring system](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/mass_spring_system/multiple_DOF)
 
 <br/><img src='../gif/dof_multiple.gif' width="600">
   
 ## 2d_curve
-    - case_1: [Beam deflection under gravity](2d_curve/case_1)
-      <br/><img src='../gif/beam_1.gif' width="600">
-    - case_2: [Buckling of a compressive beam](2d_curve/case_2)
-      <br/><img src='../gif/beam_2.gif' width="600">
-    - case_3: [Snapping of a pre-buckled beam](2d_curve/case_3)
-      <br/><img src='../gif/beam_3.gif' width="600">
+
+case_1: [Beam deflection under gravity](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/2d_curve/case_1)
+
+<br/><img src='../gif/beam_1.gif' width="600">
+
+case_2: [Buckling of a compressive beam](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/2d_curve/case_2)
+
+<br/><img src='../gif/beam_2.gif' width="600">
+
+case_3: [Snapping of a pre-buckled beam](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/2d_curve/case_3)
+
+<br/><img src='../gif/beam_3.gif' width="600">
   
 ## 3d_curve
-    - case_1: [3D helix under gravity](3d_curve/case_1)
-    <br/><img src='../gif/rod_1.gif' width="600">
-    - case_2: [Bifurcation of pre-buckled ribbon](3d_curve/case_2)
-    <br/><img src='../gif/rod_2.gif' width="600">
-    - case_3: [Growth of annular ribbon](3d_curve/case_3)
-    <br/><img src='../gif/rod_3.gif' width="600">
+
+case_1: [3D helix under gravity](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/3d_curve/case_1)
+
+<br/><img src='../gif/rod_1.gif' width="600">
+
+case_2: [Bifurcation of pre-buckled ribbon](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/3d_curve/case_2)
+
+<br/><img src='../gif/rod_2.gif' width="600">
+
+case_3: [Growth of annular ribbon](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/3d_curve/case_3)
+
+<br/><img src='../gif/rod_3.gif' width="600">
     
 ## 2d_surface
-    - case_1: [Inflation of the an axisymmetric plate](2d_surface/case_1)
-    <br/><img src='../gif/ashell_1.gif' width="600">
-    - case_2: [Snap-through of the axisymmetric shell](2d_surface/case_2)
-    <br/><img src='../gif/ashell_2.gif' width="600">
+
+case_1: [Inflation of the an axisymmetric plate](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/2d_surface/case_1)
+
+<br/><img src='../gif/ashell_1.gif' width="600">
+
+case_2: [Snap-through of the axisymmetric shell](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/2d_surface/case_2)
+
+<br/><img src='../gif/ashell_2.gif' width="600">
     
 ## 3d_surface
-    - case_1: [Plate deflection under gravity](3d_surface/case_1)
-    <br/><img src='../gif/plate_1.gif' width="600">
-    - case_2: [Plate wrinkling under gravity](3d_surface/case_2)
-    <br/><img src='../gif/plate_2.gif' width="600">
-    - case_3: [Indentation of a cylindrical shell](3d_surface/case_3)
-    <br/><img src='../gif/plate_3.gif' width="600">
+
+case_1: [Plate deflection under gravity](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/3d_surface/case_1)
+
+<br/><img src='../gif/plate_1.gif' width="600">
+
+case_2: [Plate wrinkling under gravity](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/3d_surface/case_2)
+
+<br/><img src='../gif/plate_2.gif' width="600">
+
+case_3: [Indentation of a cylindrical shell](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/3d_surface/case_3)
+
+<br/><img src='../gif/plate_3.gif' width="600">
   
-## rod_network
-    - case_1: [Flexible net under gravity](rod_network/case_1)
-    <br/><img src='../gif/net_1.gif' width="600">
-    - case_2: [Form-finding of gridshell](rod_network/case_2)
-    <br/><img src='../gif/net_2.gif' width="600">
-    - case_3: [Lattice grid under gravity](rod_network/case_3)
-    <br/><img src='../gif/net_3.gif' width="600">
+## Rod_network
+
+case_1: [Flexible net under gravity](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/rod_network/case_1)
+
+<br/><img src='../gif/net_1.gif' width="600">
+
+case_2: [Form-finding of gridshell](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/rod_network/case_2)
+
+<br/><img src='../gif/net_2.gif' width="600">
+
+case_3: [Lattice grid under gravity](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/rod_network/case_3)
+
+<br/><img src='../gif/net_3.gif' width="600">
     
-## hyper_elastic
-    - case_1: [Hyperelastic planar cable](hyper_elastic/case_1)
-    <br/><img src='../gif/hyper_1.gif' width="600">
-    - case_2: [Hyperelastic axisymmetric membrane](hyper_elastic/case_2)
-    <br/><img src='../gif/hyper_2.gif' width="600">
+## Hyper_elastic
+
+case_1: [Hyperelastic planar cable](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/hyper_elastic/case_1)
+
+<br/><img src='../gif/hyper_1.gif' width="600">
+
+case_2: [Hyperelastic axisymmetric membrane](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/hyper_elastic/case_2)
+
+<br/><img src='../gif/hyper_2.gif' width="600">
     
-## soft_robot
-    - case_1: [Magnetic actuation](soft_robot/case_1)
-    <br/><img src='../gif/robot_1.gif' width="600">
-    - case_2: [Fluid-structure interaction](soft_robot/case_2)
-    <br/><img src='../gif/robot_2.gif' width="600">
-    - case_3: [Frictional contact](soft_robot/case_3)
-    <br/><img src='../gif/robot_3.gif' width="600">
+## Soft_robot
+
+case_1: [Magnetic actuation](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/soft_robot/case_1)
+
+<br/><img src='../gif/robot_1.gif' width="600">
+
+case_2: [Fluid-structure interaction](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/soft_robot/case_2)
+
+<br/><img src='../gif/robot_2.gif' width="600">
+
+case_3: [Frictional contact](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/soft_robot/case_3)
+
+<br/><img src='../gif/robot_3.gif' width="600">
