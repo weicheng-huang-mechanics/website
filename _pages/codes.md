@@ -13,7 +13,7 @@ redirect_from:
 
 # All of our released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).
 
-# We also provide a MATLAB tutorial for the numerical simulation of flexible structures using the discrete differential geometry method.
+# DDG_Tutorial
 
 ## mass_spring_system
     - single_DOF: [Single DOF mass spring system](mass_spring_system/single_DOF)
