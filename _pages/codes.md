@@ -92,5 +92,6 @@ Case_2: [Fluid-structure interaction](https://github.com/weicheng-huang-mechanic
 Case_3: [Frictional contact](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/soft_robot/Case_3)
 <br/><img src='../gif/robot_3.gif' width="600">
 
+---
 
 # All of our other released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).
