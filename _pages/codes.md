@@ -17,8 +17,11 @@ redirect_from:
 
 ## mass_spring_system
 single_DOF: [Single DOF mass spring system](mass_spring_system/single_DOF)
+
 <br/><img src='../gif/dof_single.gif' width="600">
+
 multiple_DOF: [Multiple DOF mass spring system](mass_spring_system/multiple_DOF)
+
 <br/><img src='../gif/dof_multiple.gif' width="600">
   
 ## 2d_curve
