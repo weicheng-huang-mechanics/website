@@ -16,6 +16,7 @@ redirect_from:
 
 ---
 
+
 **Discrete differential geometry for flexible structural dynamics**
 
 ---
