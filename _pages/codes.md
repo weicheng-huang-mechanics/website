@@ -12,12 +12,7 @@ redirect_from:
 ---
 
 
-**All of our other released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories).**
-
----
-
-
-**Discrete differential geometry for flexible structural dynamics**
+**All of our other released code is available on [Github](https://github.com/weicheng-huang-mechanics?tab=repositories). Here, we provide a basic MATLAB tutorial for the nonlinear numerical simulation of flexible structures using the discrete differential geometry method.**
 
 ---
 Mass_spring_system
