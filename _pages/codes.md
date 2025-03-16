@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-# DDG_Tutorial
+# Discrete differential geometry for flexible structural dynamics
 
 ## Mass_spring_system
 
