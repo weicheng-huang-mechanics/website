@@ -17,10 +17,10 @@ redirect_from:
 ---
 Mass_spring_system
 
-Single_DOF: [Single DOF mass spring system](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/mass_spring_system/single_DOF)
+Single_DOF: [Single DOF mass-spring system](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/mass_spring_system/single_DOF)
 <br/><img src='../gif/dof_single.gif' width="600">
 
-Multiple_DOF: [Multiple DOF mass spring system](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/mass_spring_system/multiple_DOF)
+Multiple_DOF: [Multiple DOF mass-spring system](https://github.com/weicheng-huang-mechanics/DDG_Tutorial/tree/main/mass_spring_system/multiple_DOF)
 <br/><img src='../gif/dof_multiple.gif' width="600">
 
 ---
