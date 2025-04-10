@@ -18,7 +18,7 @@ redirect_from:
 
 2025
 --
-
+* Giudici, A.<sup>1</sup>, **W. Huang**<sup>1</sup>, Q. Wang, Y. Wang, M. Liu, S. Tawfick, D. Vella., 2025. Transient asymmetry during elastic snap-through: The interplay between imperfections and oscillations. [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045503).
 * Zhang. Y., **Huang, W.**, Liu, M., Yu, J., Gao, H., 2025. Snap-through buckling in heavy hard magnetic elastica. [Proceedings of the Royal Society A](https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0008).
 * Tong, D., Hao, Z., Li, J., **Huang, W.** <sup>#</sup>, 2025. Inverse design of planar clamped-free elastic rods from noisy data. [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018).
 * Tong, D., Hao, Z., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Inverse design of snap-actuated jumping robots powered by mechanics-aided machine learning. [IEEE Robotics and Automation Letters](https://doi.org/10.1109/LRA.2024.3523218).
