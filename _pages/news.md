@@ -17,8 +17,6 @@ redirect_from:
 
 * 08/04/2025: Dr. Weicheng Huang delivered an invited online talk for the University of Michigan.
 
-* 11/10/2024: Dr. Weicheng Huang delivered an invited online talk for the [UK Metamaterials Network](https://cassyni.com/events/FR3DbJ1FBeYGWWGwWFBWaZ).
-
 * 02/04/2025 Our paper, ‘Snap-through buckling in heavy hard magnetic elastica’, has been published in [Proceedings of the Royal Society A](https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0008).
 
 * 10/03/2025 Our paper, ‘Inverse design of planar clamped-free elastic rods from noisy data’, has been published in [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018).
