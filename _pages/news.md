@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 10/04/2025 Our paper, ‘Transient asymmetry during elastic snap-through: The interplay between imperfections and oscillations’, has been published in [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045503).
+
 * 02/04/2025 Our paper, ‘Snap-through buckling in heavy hard magnetic elastica’, has been published in [Proceedings of the Royal Society A](https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0008).
 
 * 10/03/2025 Our paper, ‘Inverse design of planar clamped-free elastic rods from noisy data’, has been published in [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018).
