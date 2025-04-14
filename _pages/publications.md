@@ -18,7 +18,7 @@ redirect_from:
 
 2025
 --
-* Wang, Y., Liu, M. <sup>#</sup>, Sareh, P., Liu J. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials. [
+* Wang, Y., Liu, M. <sup>#</sup>, Sareh, P., Liu, J. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials. [
 Soft Science](https://www.oaepublish.com/articles/ss.2024.73).
 * Giudici, A. <sup>1</sup>, **Huang, W.** <sup>1</sup>, Wang, Q, Wang, Y, Liu, M, Tawfick, S, Vella, D, 2025. Transient asymmetry during elastic snap-through: The interplay between imperfections and oscillations. [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045503).
 * Zhang, Y., **Huang, W.**, Liu, M., Yu, J., Gao, H., 2025. Snap-through buckling in heavy hard magnetic elastica. [Proceedings of the Royal Society A](https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0008).
