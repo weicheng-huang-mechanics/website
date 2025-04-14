@@ -13,7 +13,7 @@ redirect_from:
 
 * 14/04/2025 Our paper, ‘Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials’, has been published in [
 Soft Science](https://www.oaepublish.com/articles/ss.2024.73).
-* 
+  
 * 10/04/2025 Our paper, ‘Transient asymmetry during elastic snap-through: The interplay between imperfections and oscillations’, has been published in [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045503).
 
 * 10/04/2025: Dr. Weicheng Huang delivered an invited online talk for the University of Nottingham.
