@@ -76,6 +76,11 @@ Soft continuum guidewire moving in a tube.
 
 ---
 
+Control of a soft continuum guidewire by using magnetic fields.
+<br/><img src='../gif/tubeControl.gif' width="600">
+
+---
+
 Magnetic beam.
 <br/><img src='../gif/mag.gif' width="600">
 
