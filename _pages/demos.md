@@ -55,6 +55,21 @@ Capture of space debris using a tether-net system.
 
 ---
 
+Magnetic-actuated snap-through, mode 1.
+<br/><img src='../gif/magSnap1.gif' width="600">
+
+---
+
+Magnetic-actuated snap-through, mode 2.
+<br/><img src='../gif/magSnap2.gif' width="600">
+
+---
+
+Magnetic-actuated snap-through, mode 3.
+<br/><img src='../gif/magSnap3.gif' width="600">
+
+---
+
 Soft continuum guidewire moving in a tube.
 <br/><img src='../gif/tube.gif' width="600">
 
