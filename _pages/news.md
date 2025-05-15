@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 14/05/2025 Our paper, ‘Achieving symmetric snap-through buckling via designed magnetic actuation’, has been published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.adw1259).
+  
 * 14/04/2025 Our paper, ‘Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials’, has been published in [
 Soft Science](https://www.oaepublish.com/articles/ss.2024.73).
   
