@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-* * 03/06/2025 Our paper, ‘Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens’, has been published in [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S0022509625001747).
+* 03/06/2025 Our paper, ‘Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens’, has been published in [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S0022509625001747).
 
 * 14/05/2025 Our paper, ‘Achieving symmetric snap-through buckling via designed magnetic actuation’, has been published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.adw1259).
   
