@@ -18,6 +18,7 @@ redirect_from:
 
 2025
 --
+* Tong, D., Hao, Z., Li, J., Sun, B., Liu, M. #</sup>, Wang, L. #</sup>, **Huang, W.** #</sup>, 2025. Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens. [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S0022509625001747).
 * Zhang, Y., **Huang, W.**, Liu, M., Yu, J., Gao, H., 2025. Achieving symmetric snap-through buckling via designed magnetic actuation. [Science Advances](https://www.science.org/doi/10.1126/sciadv.adw1259).
 * Wang, Y., Liu, M. <sup>#</sup>, Sareh, P., Liu, J. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials. [
 Soft Science](https://www.oaepublish.com/articles/ss.2024.73).
