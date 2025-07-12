@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* 10/07/2025 Our paper, ‘Harnessing discrete differential geometry: A virtual playground for the bilayer soft robots’, has been published in [Advanced Intelligent Systems](https://doi.org/10.1002/aisy.202500141).
+
 * 28/06/2025 Our paper, ‘A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method’, has been published in [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
 
 * 03/06/2025 Our paper, ‘Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens’, has been published in [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S0022509625001747).
