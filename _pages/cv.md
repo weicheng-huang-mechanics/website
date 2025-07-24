@@ -18,7 +18,7 @@ Education Background
 
 Faculty Appointment
 ---
-* Assistant professor, School of Engineering, Newcastle University, 2024/02 - Current.
+* Lecturer/Assistant Professor, School of Engineering, Newcastle University, 2024/02 - Current.
 * Associate professor, School of Mechanical Engineering, Southeast University, 2021/06 - 2023/12.
 
 Awards and Honors
