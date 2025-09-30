@@ -13,7 +13,7 @@ Research Overview
 
 We are interested in both physics-based and data-based modeling, design, and control of flexible structures and soft machines. We try to combine computational mechanics, numerical simulations, machine learning algorithms, and autonomous robotic frameworks to characterize, analyze, and control the mechanical properties of complex materials and structures, then enhance the performances and enrich the functionalities of soft machines.
 
-![](./images/figureOverview.png)
+![](./images/figureOverview2.png)
 
 
 Principal Investigator
