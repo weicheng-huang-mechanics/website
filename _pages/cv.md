@@ -31,6 +31,6 @@ Awards and Honors
 
 Service and leadership
 ---
-* **Reviewers**: Provided reviews for *Science Advances, International Journal for Numerical Methods in Engineering, ASME Journal of Applied Mechanics, Extreme Mechanics Letters, Mechanism and Machine Theory, International Journal of Mechanical Sciences, IEEE Robotics and Automation Letters, IEEE Robotics Automation Magazine, Thin-Walled Structures, Meccanica, Acta Mechanica Solida Sinica, Multibody System Dynamics, Advanced Engineering Materials, IEEE/ASME Transactions on Mechatronics*.
+* **Reviewers**: Provided reviews for *Science Advances, International Journal for Numerical Methods in Engineering, ASME Journal of Applied Mechanics, ASME Journal of Mechanisms and Robotics, Extreme Mechanics Letters, Mechanism and Machine Theory, International Journal of Mechanical Sciences, IEEE Robotics and Automation Letters, IEEE Robotics Automation Magazine, Thin-Walled Structures, Meccanica, Acta Mechanica Solida Sinica, Multibody System Dynamics, Advanced Engineering Materials, IEEE/ASME Transactions on Mechatronics*.
 * **Editorial board**: Early Career Editorial Board for *Extreme Mechanics Letters* and *Soft Science*.
 
