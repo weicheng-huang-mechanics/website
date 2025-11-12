@@ -98,3 +98,11 @@ Complex bifurcation behaviors and the tunable buckling in thin elastic structure
 <br/><img src='../images/bifurcation2.png'>
 
 ---
+
+**Inverse simulation of elastic systems**
+
+Simulation-based inverse design of deformable systems.
+
+<br/><img src='../images/invrod.png'>
+
+---
