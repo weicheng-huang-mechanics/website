@@ -16,6 +16,10 @@ redirect_from:
 
 (<sup>1</sup> indicates the co-first author and <sup>#</sup> indicates the corresponding author)
 
+2026
+--
+* Tong, D. <sup>1</sup>, Choi, A. <sup>1</sup>, Wang, J. <sup>1</sup>, **Huang, W.** <sup>1#</sup>, Chen, Z., Li, J., Huang, X., Liu, M. <sup>#</sup>, Gao, H. <sup>#</sup>, Hsia, K.J. <sup>#</sup>, 2026. Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey. [Extreme Mechanics Letters](https://www.sciencedirect.com/science/article/pii/S2352431625001427).
+
 2025
 --
 * Ma, C., Ye, H., Shi, X., Chen, Y., Liu, Y., Qin, L., Gan, L., Xia, F., Long, G., Jiang, X., **Huang, W.**, Chen, X., Liang, X., Peng, L., Hu, Y., 2025. Contact-dominated localized electric-displacement-field-enhanced pressure sensing. [Nature Communications](https://www.nature.com/articles/s41467-025-63018-9).
