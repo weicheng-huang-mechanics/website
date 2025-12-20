@@ -18,6 +18,7 @@ redirect_from:
 
 2026
 --
+* Zhang, B., **Huang, W.** <sup>#</sup>, Ouyang, H., Bi, H., Zou, H., Wang, B., <sup>#</sup>, 2026. Accurate discrete simulation of plates and shells via mid-edge formulation. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4070707).
 * Tong, D. <sup>1</sup>, Choi, A. <sup>1</sup>, Wang, J. <sup>1</sup>, **Huang, W.** <sup>1, #</sup>, Chen, Z., Li, J., Huang, X., Liu, M. <sup>#</sup>, Gao, H. <sup>#</sup>, Hsia, K.J. <sup>#</sup>, 2026. Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey. [Extreme Mechanics Letters](https://www.sciencedirect.com/science/article/pii/S2352431625001427).
 
 2025
