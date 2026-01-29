@@ -221,6 +221,31 @@ Directional control of bacteria flagellar propulsion.
 
 ---
 
-Bundling behavior of two helical rods rotating in a viscous environment.
-<br/><img src='../gif/bundling.gif' width="600">
+Flexible origami case 1
+<br/><img src='../gif/origami_0.gif' width="600">
+
+---
+
+Flexible origami case 2
+<br/><img src='../gif/origami_1.gif' width="600">
+
+---
+
+Flexible origami case 3
+<br/><img src='../gif/origami_2.gif' width="600">
+
+---
+
+Flexible origami case 4
+<br/><img src='../gif/origami_3.gif' width="600">
+
+---
+
+Flexible origami case 5
+<br/><img src='../gif/origami_4.gif' width="600">
+
+---
+
+Flexible origami case 6
+<br/><img src='../gif/origami_5.gif' width="600">
 
