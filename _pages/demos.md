@@ -216,8 +216,13 @@ Hysteresis of a helical magnetic rod.
 
 ---
 
-Directional control of bacteria flagellar propulsion.
+Directional control of bacterial flagellar propulsion.
 <br/><img src='../gif/flagella.gif' width="600">
+
+---
+
+Bundling of bacterial flagella.
+<br/><img src='../gif/bundling.gif' width="600">
 
 ---
 
