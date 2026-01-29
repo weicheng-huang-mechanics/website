@@ -221,31 +221,31 @@ Directional control of bacteria flagellar propulsion.
 
 ---
 
-Flexible origami case 1
+Flexible origami, simple deformation.
 <br/><img src='../gif/origami_0.gif' width="600">
 
 ---
 
-Flexible origami case 2
+Flexible origami, bistable.
 <br/><img src='../gif/origami_1.gif' width="600">
 
 ---
 
-Flexible origami case 3
+Flexible origami, under gravity.
 <br/><img src='../gif/origami_2.gif' width="600">
 
 ---
 
-Flexible origami case 4
+Flexible origami, deployment.
 <br/><img src='../gif/origami_3.gif' width="600">
 
 ---
 
-Flexible origami case 5
+Flexible origami, multistability.
 <br/><img src='../gif/origami_4.gif' width="600">
 
 ---
 
-Flexible origami case 6
+Flexible origami, crawling.
 <br/><img src='../gif/origami_5.gif' width="600">
 
