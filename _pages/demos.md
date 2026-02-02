@@ -254,3 +254,19 @@ Flexible origami, multistability.
 Flexible origami, crawling.
 <br/><img src='../gif/origami_5.gif' width="600">
 
+---
+
+Growth of an elastic ring in a confined cylinder.
+<br/><img src='../gif/growth_rod_1.gif' width="600">
+
+
+---
+
+Growth of an elastic ring in a confined sphere.
+<br/><img src='../gif/growth_rod_2.gif' width="600">
+
+---
+
+Growth of an elastic ring in a confined torus.
+<br/><img src='../gif/growth_rod_3.gif' width="600">
+
