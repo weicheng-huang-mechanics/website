@@ -161,6 +161,11 @@ Multistability of an origami annulus.
 
 ---
 
+Shear-induced symmetry breaking and symmetry preservation in a foldable ribbon
+<br/><img src='../gif/shear_ribbon.gif' width="600">
+
+---
+
 Symmetric and asymmetric bifurcations of serpentine strips.
 <br/><img src='../gif/msbif.gif' width="600">
 
