@@ -18,6 +18,8 @@ redirect_from:
 
 2026
 --
+* Li, J. , Wu, H. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2026. Numerical investigation of growth-induced buckling of soft filaments in confined spaces. [International Journal of Non-Linear Mechanics](https://doi.org/10.1016/j.ijnonlinmec.2026.105363).
+* Huang, K., Zhang, J., **Huang, W.**, Wang, Q., Shaw, A., Friswell, M., 2026. Exploring sequential snapping bifurcation through a tunable energy landscape.  [Physical Review Applied](https://doi.org/10.1103/nxpg-92kv).
 * Li, J. <sup>1</sup>, **Huang, W.** <sup>1</sup>, Zhu, Y., Yu, L., Sun, X., Liu, M., Wu, H., 2026. Inverse Elastica: A theoretical framework for inverse design of morphing slender structures. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2025.106488).
 * Zhang, B., **Huang, W.** <sup>#</sup>, Ouyang, H., Bi, H., Zou, H., Wang, B., <sup>#</sup>, 2026. Accurate discrete simulation of plates and shells via mid-edge formulation. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4070707).
 * Tong, D. <sup>1</sup>, Choi, A. <sup>1</sup>, Wang, J. <sup>1</sup>, **Huang, W.** <sup>1, #</sup>, Chen, Z., Li, J., Huang, X., Liu, M. <sup>#</sup>, Gao, H. <sup>#</sup>, Hsia, K.J. <sup>#</sup>, 2026. Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey. [Extreme Mechanics Letters](https://www.sciencedirect.com/science/article/pii/S2352431625001427).
