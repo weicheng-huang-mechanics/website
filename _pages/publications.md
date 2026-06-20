@@ -14,46 +14,46 @@ redirect_from:
 **You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=KbEBKIMAAAAJ&hl=ena).**
 
 
-(<sup>*</sup> Corresponding author; <sup>†</sup> Equal contribution)
+(<sup>#</sup> Corresponding author; <sup>†</sup> Equal contribution)
 
 2026
 --
 * Hastings, J., Dewanarayana, L., Shaju, I., Al-Wizni, H., Marquis, S., **Huang, W.**, Sareh, P., 2026. Intelligent Sky Guardians (InSkyGuard): An Aerial Robotic Swarm for Autonomous Detection and Entrapment of Rogue Multirotors. [Advanced Robotics Research](https://doi.org/10.1002/adrr.202500204).
 * **Huang, W.**, Zhang, Q., Liu, M., 2026. Programmable symmetry-breaking in folded elastic ribbons via tunable pitchfork bifurcations. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2026.106654).
-* Li, J. , Wu, H. <sup>*</sup>, **Huang, W.** <sup>*</sup>, 2026. Numerical investigation of growth-induced buckling of soft filaments in confined spaces. [International Journal of Non-Linear Mechanics](https://doi.org/10.1016/j.ijnonlinmec.2026.105363).
+* Li, J. , Wu, H. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2026. Numerical investigation of growth-induced buckling of soft filaments in confined spaces. [International Journal of Non-Linear Mechanics](https://doi.org/10.1016/j.ijnonlinmec.2026.105363).
 * Huang, K., Zhang, J., **Huang, W.**, Wang, Q., Shaw, A., Friswell, M., 2026. Exploring sequential snapping bifurcation through a tunable energy landscape.  [Physical Review Applied](https://doi.org/10.1103/nxpg-92kv).
 * Li, J. <sup>†</sup>, **Huang, W.** <sup>†</sup>, Zhu, Y., Yu, L., Sun, X., Liu, M., Wu, H., 2026. Inverse Elastica: A theoretical framework for inverse design of morphing slender structures. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2025.106488).
-* Zhang, B., **Huang, W.** <sup>*</sup>, Ouyang, H., Bi, H., Zou, H., Wang, B., <sup>*</sup>, 2026. Accurate discrete simulation of plates and shells via mid-edge formulation. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4070707).
-* Tong, D. <sup>†</sup>, Choi, A. <sup>†</sup>, Wang, J. <sup>†</sup>, **Huang, W.** <sup>†, *</sup>, Chen, Z., Li, J., Huang, X., Liu, M. <sup>*</sup>, Gao, H. <sup>*</sup>, Hsia, K.J. <sup>*</sup>, 2026. Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey. [Extreme Mechanics Letters](https://www.sciencedirect.com/science/article/pii/S2352431625001427).
+* Zhang, B., **Huang, W.** <sup>#</sup>, Ouyang, H., Bi, H., Zou, H., Wang, B., <sup>#</sup>, 2026. Accurate discrete simulation of plates and shells via mid-edge formulation. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4070707).
+* Tong, D. <sup>†</sup>, Choi, A. <sup>†</sup>, Wang, J. <sup>†</sup>, **Huang, W.** <sup>†, *</sup>, Chen, Z., Li, J., Huang, X., Liu, M. <sup>#</sup>, Gao, H. <sup>#</sup>, Hsia, K.J. <sup>#</sup>, 2026. Discrete Differential Geometry for Simulating Nonlinear Behaviors of Flexible Systems: A Survey. [Extreme Mechanics Letters](https://www.sciencedirect.com/science/article/pii/S2352431625001427).
 
 2025
 --
 * Ma, C., Ye, H., Shi, X., Chen, Y., Liu, Y., Qin, L., Gan, L., Xia, F., Long, G., Jiang, X., **Huang, W.**, Chen, X., Liang, X., Peng, L., Hu, Y., 2025. Contact-dominated localized electric-displacement-field-enhanced pressure sensing. [Nature Communications](https://www.nature.com/articles/s41467-025-63018-9).
 * Zhang, X., Ma, L., Yang, D., Chen, W., **Huang, W.**, Liu, B., Pan, Y., 2025. Crushing safety prediction of a battery pack system by fusion of multiple methods. [Energy](https://doi.org/10.1016/j.energy.2025.137969).
-* Li, J., Tong, D., Hao, Z., Zhu, Y., Wu, H., Liu, M. <sup>*</sup>, **Huang, W.** <sup>*</sup>, 2025. Harnessing discrete differential geometry: A virtual playground for the bilayer soft robots. [Advanced Intelligent Systems](https://doi.org/10.1002/aisy.202500141).
+* Li, J., Tong, D., Hao, Z., Zhu, Y., Wu, H., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Harnessing discrete differential geometry: A virtual playground for the bilayer soft robots. [Advanced Intelligent Systems](https://doi.org/10.1002/aisy.202500141).
 * **Huang, W.**, Hao, Z., Li, J., Tong, D., Guo, K., Zhang, Y., Gao, H., Hsia, K.J., Liu, M., 2025. A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method. [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
-* Tong, D., Hao, Z., Li, J., Sun, B., Liu, M. <sup>*</sup>, Wang, L. <sup>*</sup>, **Huang, W.** <sup>*</sup>, 2025. Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens. [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S0022509625001747).
+* Tong, D., Hao, Z., Li, J., Sun, B., Liu, M. <sup>#</sup>, Wang, L. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens. [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S0022509625001747).
 * Zhang, Y., **Huang, W.**, Liu, M., Yu, J., Gao, H., 2025. Achieving symmetric snap-through buckling via designed magnetic actuation. [Science Advances](https://www.science.org/doi/10.1126/sciadv.adw1259).
-* Wang, Y., Liu, M. <sup>*</sup>, Sareh, P., Liu, J. <sup>*</sup>, **Huang, W.** <sup>*</sup>, 2025. Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials. [
+* Wang, Y., Liu, M. <sup>#</sup>, Sareh, P., Liu, J. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials. [
 Soft Science](https://www.oaepublish.com/articles/ss.2024.73).
 * Giudici, A. <sup>†</sup>, **Huang, W.** <sup>†</sup>, Wang, Q, Wang, Y, Liu, M, Tawfick, S, Vella, D, 2025. Transient asymmetry during elastic snap-through: The interplay between imperfections and oscillations. [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045503).
 * Zhang, Y., **Huang, W.**, Liu, M., Yu, J., Gao, H., 2025. Snap-through buckling in heavy hard magnetic elastica. [Proceedings of the Royal Society A](https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0008).
-* Tong, D., Hao, Z., Li, J., **Huang, W.** <sup>*</sup>, 2025. Inverse design of planar clamped-free elastic rods from noisy data. [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018).
-* Tong, D., Hao, Z., Liu, M. <sup>*</sup>, **Huang, W.** <sup>*</sup>, 2025. Inverse design of snap-actuated jumping robots powered by mechanics-aided machine learning. [IEEE Robotics and Automation Letters](https://doi.org/10.1109/LRA.2024.3523218).
-* Shi, Q., **Huang, W.** <sup>*</sup>, Yu, T. <sup>*</sup>, Li, M. <sup>*</sup>, 2025. Double-eigenvalue bifurcation and multistability in serpentine strips with tunable buckling behaviors. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105922).
+* Tong, D., Hao, Z., Li, J., **Huang, W.** <sup>#</sup>, 2025. Inverse design of planar clamped-free elastic rods from noisy data. [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.70018).
+* Tong, D., Hao, Z., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Inverse design of snap-actuated jumping robots powered by mechanics-aided machine learning. [IEEE Robotics and Automation Letters](https://doi.org/10.1109/LRA.2024.3523218).
+* Shi, Q., **Huang, W.** <sup>#</sup>, Yu, T. <sup>#</sup>, Li, M. <sup>#</sup>, 2025. Double-eigenvalue bifurcation and multistability in serpentine strips with tunable buckling behaviors. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105922).
 
 2024
 ---
 
 * **Huang, W.**, Liu, Z., Liu, M., Hsia, K.J., 2024. Snap-through eversion of axisymmetric shells under contact indentation. [Proceedings of the Royal Society A](https://doi.org/10.1098/rspa.2024.0303).
-* Liu, Z., Liu, M. <sup>*</sup>, Hsia, K.J., Huang, X., and **Huang, W.** <sup>*</sup>, 2024. Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. [Thin-Walled Structures](https://doi.org/10.1016/j.tws.2024.112502).
+* Liu, Z., Liu, M. <sup>#</sup>, Hsia, K.J., Huang, X., and **Huang, W.** <sup>#</sup>, 2024. Simplified discrete model for axisymmetric dielectric elastomer membranes with robotic applications. [Thin-Walled Structures](https://doi.org/10.1016/j.tws.2024.112502).
 * **Huang, W.**, Liu, T., Liu, Z., Xu, P., Liu, M., Chen, Y. and Hsia, K.J., 2024. Discrete differential geometry-based model for nonlinear analysis of axisymmetric shells. [International Journal of Mechanical Sciences](https://doi.org/10.1016/j.ijmecsci.2024.109742).
 * Wang, Q., Giudici, A., **Huang, W.**, Wang, Y., Liu, M., Tawfick, S. and Vella, D., 2024. Transient amplification of broken symmetry in elastic snap-through. [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.267201).
 * **Huang, W.**, Yu, T., Vella, D., Hsia, K.J. and Liu, M., 2024. Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2024.105721).
 * **Huang, W.**, Xu, P. and Liu, Z., 2024. Dynamic modeling of a sliding ring on an elastic rod with incremental potential formulation. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4065625).
 * **Huang, W.**, Yu, T., Hsia, K.J., Adriaenssens, S. and Liu, M., 2024. Integration of kinks and creases enables tunable folding in meta-ribbons. [Matter](https://www.cell.com/matter/fulltext/S2590-2385(24)00204-2).
 * Liu, Z., Bian, P.L., Qu, Y., **Huang, W.**, Chen, L., Chen, J., Saxena, P. and Yu, T., 2024. A Galerkin approach for analysing coupling effects in the piezoelectric semiconducting beams. [European Journal of Mechanics-A/Solids](https://doi.org/10.1016/j.euromechsol.2023.105145).
-* Lai, Z., Tang, M., Hu, X., Shu, X., **Huang, W.** <sup>*</sup>, Pan, Y. <sup>*</sup>, 2024. Dynamics modeling and motion evaluation of a near-ground tethered balloon cable system under severe wind environments. [Actuators](https://www.mdpi.com/2076-0825/13/10/402).
+* Lai, Z., Tang, M., Hu, X., Shu, X., **Huang, W.** <sup>#</sup>, Pan, Y. <sup>#</sup>, 2024. Dynamics modeling and motion evaluation of a near-ground tethered balloon cable system under severe wind environments. [Actuators](https://www.mdpi.com/2076-0825/13/10/402).
 * Liu, Z., McBride, A., Ghosh, A., Heltai, L., **Huang, W.**, Yu, T., Steinmann, P. and Saxena, P., 2024. Computational instability analysis of inflated hyperelastic thin shells using subdivision surfaces. [Computational Mechanics](https://link.springer.com/article/10.1007/s00466-023-02366-z).
 * Tong, D., Choi, A., Qin, L., **Huang, W.**, Joo, J. and Jawed, M.K., 2024. Sim2real neural controllers for physics-based robotic deployment of deformable linear objects. [The International Journal of Robotics Research](https://doi.org/10.1177/02783649231214553).
 
@@ -62,9 +62,9 @@ Soft Science](https://www.oaepublish.com/articles/ss.2024.73).
 * Yang, X., Zhou, Y., Zhao, H., **Huang, W.**, Wang, Y., Hsia, K.J. and Liu, M., 2023. Morphing matter: From mechanical principles to robotic applications. [Soft Science](https://www.oaepublish.com/articles/ss.2023.42).
 * **Huang, W.**, Liu, M. and Hsia, K.J., 2023. Modeling of magnetic cilia carpet robots using discrete differential geometry formulation. [Extreme Mechanics Letters](https://doi.org/10.1016/j.eml.2023.101967).
 * **Huang, W.**, Liu, M. and Hsia, K.J., 2023. A discrete model for the geometrically nonlinear mechanics of hard-magnetic slender structures. [Extreme Mechanics Letters](https://doi.org/10.1016/j.eml.2023.101977).
-* Qin, L., Peng, H., Huang, X., Liu, M. <sup>*</sup> and **Huang, W.** <sup>*</sup>, 2023. Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. [Current Robotics Reports](https://link.springer.com/article/10.1007/s43154-023-00105-z).
+* Qin, L., Peng, H., Huang, X., Liu, M. <sup>#</sup> and **Huang, W.** <sup>#</sup>, 2023. Modeling and simulation of dynamics in soft robotics: A review of numerical approaches. [Current Robotics Reports](https://link.springer.com/article/10.1007/s43154-023-00105-z).
 * **Huang, W.**, Zhang, Y., Yu, T. and Liu, M., 2023. Bifurcations and stability analysis of elastic slender structures using static discrete elastic rods method. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4062533).
-* **Huang, W.** <sup>*</sup>, Zou, H., Pan, Y., Zhang, K., Zheng, J., Li, J. and Mao, S., 2023. Numerical simulation and behavior prediction of a space net system throughout the capture process: Spread, contact, and close. [International Journal of Mechanical System Dynamics](https://doi.org/10.1002/msd2.12084).
+* **Huang, W.** <sup>#</sup>, Zou, H., Pan, Y., Zhang, K., Zheng, J., Li, J. and Mao, S., 2023. Numerical simulation and behavior prediction of a space net system throughout the capture process: Spread, contact, and close. [International Journal of Mechanical System Dynamics](https://doi.org/10.1002/msd2.12084).
 * **Huang, W.**, Zou, H., Liu, H., Yang, W., Gao, J. and Liu, Z., 2023. Contact dynamic analysis of tether-net system for space debris capture using incremental potential formulation. [Advances in Space Research](https://doi.org/10.1016/j.asr.2023.05.054).
 * **Huang, W.**, He, D., Tong, D., Chen, Y., Huang, X., Qin, L. and Fei, Q., 2023. Static analysis of elastic cable structures under mechanical load using discrete catenary theory. [Fundamental Research](https://doi.org/10.1016/j.fmre.2022.03.011).
 
@@ -72,7 +72,7 @@ Soft Science](https://www.oaepublish.com/articles/ss.2024.73).
 2022
 ---
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Numerical exploration on snap buckling of a pre-stressed hemispherical gridshell. [Journal of Applied Mechanics](https://doi.org/10.1115/1.4052289).
-* Qin, L., Zhu, J. and **Huang, W.** <sup>*</sup>, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. [International Journal for Numerical Methods in Engineering](https://doi.org/10.1002/nme.6950).
+* Qin, L., Zhu, J. and **Huang, W.** <sup>#</sup>, 2022. A bottom‐up optimization method for inverse design of two‐dimensional clamped‐free elastic rods. [International Journal for Numerical Methods in Engineering](https://doi.org/10.1002/nme.6950).
 * Xu, P., Zhou, Z., **Huang, W.**, Chen, Q., Lu, F. and Liu, T., 2022. The evolution mechanisms of bearing-tension-shear failure modes of FML joints under in-plane dynamic load. [Composites Communications](https://doi.org/10.1016/j.coco.2022.101174).
 * **Huang, W.**, Qin, L. and Chen, Q., 2022. Natural frequencies of pre-buckled rods and gridshells. [Applied Mathematical Modelling](https://doi.org/10.1016/j.apm.2022.03.011).
 * **Huang, W.**, Ma, C., Chen, Q. and Qin, L., 2022. A discrete differential geometry-based numerical framework for extensible ribbons. [International Journal of Solids and Structures](https://doi.org/10.1016/j.ijsolstr.2022.111619).
