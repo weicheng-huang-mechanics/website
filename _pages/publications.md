@@ -14,7 +14,7 @@ redirect_from:
 **You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=KbEBKIMAAAAJ&hl=ena).**
 
 
-(<sup>*</sup> indicates the corresponding author; <sup>†</sup> indicates equal contribution)
+(<sup>*</sup> Corresponding author; <sup>†</sup> Equal contribution)
 
 2026
 --
