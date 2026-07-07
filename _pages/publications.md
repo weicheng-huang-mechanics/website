@@ -18,7 +18,7 @@ redirect_from:
 
 2026
 --
-* Wan, S., Tong, D., Chen, H., Li, J., Sun, X., Gong, Z., **Huang, W.**, Wang, L., 2026. Mechanics of magnetic fiberbots for robotic embolization: Elongation–aggregation shape morphing under frictional confinement. [International Journal of Engineering Science](https://www.sciencedirect.com/science/article/pii/S0020722526001618).
+* Wan, S., Tong, D., Chen, H., Li, J., Sun, X., Gong, Z., **Huang, W.** <sup>#</sup>, Wang, L. <sup>#</sup>, 2026. Mechanics of magnetic fiberbots for robotic embolization: Elongation–aggregation shape morphing under frictional confinement. [International Journal of Engineering Science](https://www.sciencedirect.com/science/article/pii/S0020722526001618).
 * Wu, Z., Huang, K., Wang, N., **Huang, W.**, Wang, Q., Zhang, J., 2026. Analysis of nonlinear dynamics of a curved beam under gravity bias. [Physical Review E](https://doi.org/10.1103/nxxl-x79n).
 * Hastings, J., Dewanarayana, L., Shaju, I., Al-Wizni, H., Marquis, S., **Huang, W.**, Sareh, P., 2026. Intelligent Sky Guardians (InSkyGuard): An Aerial Robotic Swarm for Autonomous Detection and Entrapment of Rogue Multirotors. [Advanced Robotics Research](https://doi.org/10.1002/adrr.202500204).
 * **Huang, W.**, Zhang, Q., Liu, M., 2026. Programmable symmetry-breaking in folded elastic ribbons via tunable pitchfork bifurcations. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2026.106654).
