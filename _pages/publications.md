@@ -19,7 +19,7 @@ redirect_from:
 2026
 --
 * Zhang, Q., **Huang, W.** <sup>#</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K. <sup>#</sup>, Liu, M. <sup>#</sup>, 2026. Dimple-Encoded Reprogrammable Origami. [Advanced Science](http://doi.org/10.1002/advs.76901)
-* * Yang, Y., **Huang, W.**, Chen, W., Ai, C., 2026. Discrete electromechanical model for static and dynamic analysis of multilayer dielectric elastomer bending actuators. [Thin-Walled Structures](https://www.sciencedirect.com/science/article/pii/S0263823126009791).
+* Yang, Y., **Huang, W.**, Chen, W., Ai, C., 2026. Discrete electromechanical model for static and dynamic analysis of multilayer dielectric elastomer bending actuators. [Thin-Walled Structures](https://www.sciencedirect.com/science/article/pii/S0263823126009791).
 * Zhang, B., Wang, B. <sup>#</sup>, Ouyang, H., Wu, Z., Bi, H., Xu, J., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2026. From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami. [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76715)
 * Wan, S., Tong, D., Chen, H., Li, J., Sun, X., Gong, Z., **Huang, W.** <sup>#</sup>, Wang, L. <sup>#</sup>, 2026. Mechanics of magnetic fiberbots for robotic embolization: Elongation–aggregation shape morphing under frictional confinement. [International Journal of Engineering Science](https://www.sciencedirect.com/science/article/pii/S0020722526001618).
 * Wu, Z., Huang, K., Wang, N., **Huang, W.**, Wang, Q., Zhang, J., 2026. Analysis of nonlinear dynamics of a curved beam under gravity bias. [Physical Review E](https://doi.org/10.1103/nxxl-x79n).
