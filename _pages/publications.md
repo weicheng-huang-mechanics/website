@@ -18,6 +18,7 @@ redirect_from:
 
 2026
 --
+* **Huang, W.**, Hao, Z., Li, J., Tong, D., Guo, K., Zhang, Y., Gao, H., Hsia, K.J., Liu, M., 2025. A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method. [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
 * Zhang, Q., **Huang, W.** <sup>#</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K. <sup>#</sup>, Liu, M. <sup>#</sup>, 2026. Dimple-Encoded Reprogrammable Origami. [Advanced Science](http://doi.org/10.1002/advs.76901)
 * Yang, Y., **Huang, W.**, Chen, W., Ai, C., 2026. Discrete electromechanical model for static and dynamic analysis of multilayer dielectric elastomer bending actuators. [Thin-Walled Structures](https://www.sciencedirect.com/science/article/pii/S0263823126009791).
 * Zhang, B., Wang, B. <sup>#</sup>, Ouyang, H., Wu, Z., Bi, H., Xu, J., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2026. From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami. [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76715)
@@ -36,7 +37,6 @@ redirect_from:
 * Ma, C., Ye, H., Shi, X., Chen, Y., Liu, Y., Qin, L., Gan, L., Xia, F., Long, G., Jiang, X., **Huang, W.**, Chen, X., Liang, X., Peng, L., Hu, Y., 2025. Contact-dominated localized electric-displacement-field-enhanced pressure sensing. [Nature Communications](https://www.nature.com/articles/s41467-025-63018-9).
 * Zhang, X., Ma, L., Yang, D., Chen, W., **Huang, W.**, Liu, B., Pan, Y., 2025. Crushing safety prediction of a battery pack system by fusion of multiple methods. [Energy](https://doi.org/10.1016/j.energy.2025.137969).
 * Li, J., Tong, D., Hao, Z., Zhu, Y., Wu, H., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Harnessing discrete differential geometry: A virtual playground for the bilayer soft robots. [Advanced Intelligent Systems](https://doi.org/10.1002/aisy.202500141).
-* **Huang, W.**, Hao, Z., Li, J., Tong, D., Guo, K., Zhang, Y., Gao, H., Hsia, K.J., Liu, M., 2025. A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method. [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
 * Tong, D., Hao, Z., Li, J., Sun, B., Liu, M. <sup>#</sup>, Wang, L. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens. [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S0022509625001747).
 * Zhang, Y., **Huang, W.**, Liu, M., Yu, J., Gao, H., 2025. Achieving symmetric snap-through buckling via designed magnetic actuation. [Science Advances](https://www.science.org/doi/10.1126/sciadv.adw1259).
 * Wang, Y., Liu, M. <sup>#</sup>, Sareh, P., Liu, J. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2025. Towards ultrastretchability, multimodal instability, and static nonreciprocity in kirigami metamaterials. [
