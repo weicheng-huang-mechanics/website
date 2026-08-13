@@ -18,7 +18,7 @@ redirect_from:
 
 2026
 --
-* **Huang, W.**, Hao, Z., Li, J., Tong, D., Guo, K., Zhang, Y., Gao, H., Hsia, K.J., Liu, M., 2025. A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method. [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
+* **Huang, W.**, Hao, Z., Li, J., Tong, D., Guo, K., Zhang, Y., Gao, H., Hsia, K.J., Liu, M., 2026. A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method. [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
 * Zhang, Q., **Huang, W.** <sup>#</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K. <sup>#</sup>, Liu, M. <sup>#</sup>, 2026. Dimple-Encoded Reprogrammable Origami. [Advanced Science](http://doi.org/10.1002/advs.76901)
 * Yang, Y., **Huang, W.**, Chen, W., Ai, C., 2026. Discrete electromechanical model for static and dynamic analysis of multilayer dielectric elastomer bending actuators. [Thin-Walled Structures](https://www.sciencedirect.com/science/article/pii/S0263823126009791).
 * Zhang, B., Wang, B. <sup>#</sup>, Ouyang, H., Wu, Z., Bi, H., Xu, J., Liu, M. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2026. From Folding Mechanics to Robotic Function: A Unified Modeling Framework for Compliant Origami. [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76715)
