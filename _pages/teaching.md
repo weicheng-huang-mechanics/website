@@ -17,6 +17,8 @@ Newcastle University
 * Mechanical Engineering Project - MEC3098
 * Mechanical Engineering Team Project - MEC8099
 * MSc Project: Mechanical and Systems Engineering - MEC8095
+* Introduction to Mechatronics Design - MEC3033
+* Robotics and AI - EEE8166
 
 
 Southeast University
