@@ -55,8 +55,18 @@ Capture of space debris using a tether-net system.
 
 ---
 
-Magnetic-actuated snap-through, mode 1.
+Fracture simulation of flexible plate, case 1.
 <br/><img src='../gif/magSnap1.gif' width="600">
+
+---
+
+Fracture simulation of flexible plate, case 1.
+<br/><img src='../gif/pfm_1.gif' width="600">
+
+---
+
+Magnetic-actuated snap-through, mode 2.
+<br/><img src='../gif/pfm_2.gif' width="600">
 
 ---
 
