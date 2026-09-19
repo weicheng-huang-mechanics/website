@@ -23,6 +23,7 @@ redirect_from:
 
 2026
 --
+* Tong, D., Wang, J., Chen, Z., Borum A., **Huang, W.**, Huang, X., Jawed M.K., 2026. Geometry-controlled instability pathway selection in elastic helices enables fast, efficient robotic locomotion. [Science Advances](https://www.science.org/doi/10.1126/sciadv.aeh2779).
 * **Huang, W.**, Hao, Z., Li, J., Tong, D., Guo, K., Zhang, Y., Gao, H., Hsia, K.J., Liu, M., 2026. A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method. [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
 * Zhang, Q., **Huang, W.** <sup>#</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K. <sup>#</sup>, Liu, M. <sup>#</sup>, 2026. Dimple-Encoded Reprogrammable Origami. [Advanced Science](http://doi.org/10.1002/advs.76901)
 * Yang, Y., **Huang, W.**, Chen, W., Ai, C., 2026. Discrete electromechanical model for static and dynamic analysis of multilayer dielectric elastomer bending actuators. [Thin-Walled Structures](https://www.sciencedirect.com/science/article/pii/S0263823126009791).
