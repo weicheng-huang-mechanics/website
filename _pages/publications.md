@@ -19,6 +19,7 @@ redirect_from:
 
 2027
 --
+* Yu, Z., Pan, C., Fang, B., **Huang, W.**, Tian, Q., 2027. Dynamic Analysis of Flexible Multibody Systems via an Improved Physics Informed Neural Network. [Applied Mathematical Modelling](https://www.sciencedirect.com/science/article/pii/S0307904X26006025).
 * Liu, Z., Bian, P., Yu, T., **Huang, W.** <sup>#</sup>, Mei, Y.<sup>#</sup>, 2027. A consistent finite element framework for the magneto-mechanical analysis of hard-magnetic thin shells using subdivision surfaces. [Thin-Walled Structures](https://www.sciencedirect.com/science/article/pii/S0263823126012371).
 * Li, J., Liu, M., Liang, H., Wu, H. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2027. Inverse Discrete Elastic Rod: A numerical framework for inverse design of slender structures. [Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/science/article/pii/S0045782526006286).
 
