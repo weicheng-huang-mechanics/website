@@ -25,6 +25,7 @@ redirect_from:
 
 2026
 --
+* Zhang, Q., Doustdar, O., Kim, H., Dancer, C., Dai, Z., **Huang, W.** <sup>#</sup>, Dearn, K. <sup>#</sup>, Vella, D. <sup>#</sup>, Liu, M. <sup>#</sup>, 2026. Learning to Program Dimple-Encoded Strips for Morphing Architectures. [Advanced Materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75796).
 * Tong, D., Wang, J., Chen, Z., Borum A., **Huang, W.**, Huang, X., Jawed M.K., 2026. Geometry-controlled instability pathway selection in elastic helices enables fast, efficient robotic locomotion. [Science Advances](https://www.science.org/doi/10.1126/sciadv.aeh2779).
 * **Huang, W.**, Hao, Z., Li, J., Tong, D., Guo, K., Zhang, Y., Gao, H., Hsia, K.J., Liu, M., 2026. A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry method. [Applied Mechanics Reviews](https://doi.org/10.1115/1.4069025).
 * Zhang, Q., **Huang, W.** <sup>#</sup>, Hajiyavand, A., Kim, H., Dancer, C., Dearn, K. <sup>#</sup>, Liu, M. <sup>#</sup>, 2026. Dimple-Encoded Reprogrammable Origami. [Advanced Science](http://doi.org/10.1002/advs.76901)
