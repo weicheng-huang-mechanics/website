@@ -19,6 +19,7 @@ redirect_from:
 
 2027
 --
+* **Huang, W.** <sup>†,#</sup>, Zhang, Q., Zhang, B., Liu, M. <sup>†,#</sup>, 2027. Bifurcation reorganization governs snap-through pathways in folded elastic ribbons. [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/pii/S002250962600428X).
 * Yu, Z., Pan, C., Fang, B., **Huang, W.**, Tian, Q., 2027. Dynamic Analysis of Flexible Multibody Systems via an Improved Physics Informed Neural Network. [Applied Mathematical Modelling](https://www.sciencedirect.com/science/article/pii/S0307904X26006025).
 * Liu, Z., Bian, P., Yu, T., **Huang, W.** <sup>#</sup>, Mei, Y.<sup>#</sup>, 2027. A consistent finite element framework for the magneto-mechanical analysis of hard-magnetic thin shells using subdivision surfaces. [Thin-Walled Structures](https://www.sciencedirect.com/science/article/pii/S0263823126012371).
 * Li, J., Liu, M., Liang, H., Wu, H. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2027. Inverse Discrete Elastic Rod: A numerical framework for inverse design of slender structures. [Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/science/article/pii/S0045782526006286).
@@ -34,7 +35,7 @@ redirect_from:
 * Wan, S., Tong, D., Chen, H., Li, J., Sun, X., Gong, Z., **Huang, W.** <sup>#</sup>, Wang, L. <sup>#</sup>, 2026. Mechanics of magnetic fiberbots for robotic embolization: Elongation–aggregation shape morphing under frictional confinement. [International Journal of Engineering Science](https://www.sciencedirect.com/science/article/pii/S0020722526001618).
 * Wu, Z., Huang, K., Wang, N., **Huang, W.**, Wang, Q., Zhang, J., 2026. Analysis of nonlinear dynamics of a curved beam under gravity bias. [Physical Review E](https://doi.org/10.1103/nxxl-x79n).
 * Hastings, J., Dewanarayana, L., Shaju, I., Al-Wizni, H., Marquis, S., **Huang, W.**, Sareh, P., 2026. Intelligent Sky Guardians (InSkyGuard): An Aerial Robotic Swarm for Autonomous Detection and Entrapment of Rogue Multirotors. [Advanced Robotics Research](https://doi.org/10.1002/adrr.202500204).
-* **Huang, W.**, Zhang, Q., Liu, M., 2026. Programmable symmetry-breaking in folded elastic ribbons via tunable pitchfork bifurcations. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2026.106654).
+* **Huang, W.** <sup>†,#</sup>, Zhang, Q., Liu, M. <sup>†,#</sup>, 2026. Programmable symmetry-breaking in folded elastic ribbons via tunable pitchfork bifurcations. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2026.106654).
 * Li, J., Wu, H. <sup>#</sup>, **Huang, W.** <sup>#</sup>, 2026. Numerical investigation of growth-induced buckling of soft filaments in confined spaces. [International Journal of Non-Linear Mechanics](https://doi.org/10.1016/j.ijnonlinmec.2026.105363).
 * Huang, K., Zhang, J., **Huang, W.**, Wang, Q., Shaw, A., Friswell, M., 2026. Exploring sequential snapping bifurcation through a tunable energy landscape.  [Physical Review Applied](https://doi.org/10.1103/nxpg-92kv).
 * Li, J. <sup>†</sup>, **Huang, W.** <sup>†</sup>, Zhu, Y., Yu, L., Sun, X., Liu, M., Wu, H., 2026. Inverse Elastica: A theoretical framework for inverse design of morphing slender structures. [Journal of the Mechanics and Physics of Solids](https://doi.org/10.1016/j.jmps.2025.106488).
